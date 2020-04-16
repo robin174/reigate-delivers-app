@@ -14,7 +14,7 @@ Once your site is up and running you'll be able to log in to the CMS via /admin/
 
 You'll need a Cloudinary account - this is the CDN that the images are hosted on.
 
-## Brand Colours for Dulwich Delivers
+## Brand Colours for Reigate Delivers
 
 #ff48a3
 #3426a6
