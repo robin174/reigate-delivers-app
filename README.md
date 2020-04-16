@@ -1,4 +1,4 @@
-Dulwich Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.
+Reigate Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
