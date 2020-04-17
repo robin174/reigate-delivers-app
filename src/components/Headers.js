@@ -13,6 +13,9 @@ export const Nav = () => {
        <Button path="mailto:robin@reigatedelivers.com">
         📧 Email us
        </Button>
+       <Button path="https://www.facebook.com/reigatedelivers">
+        🙌 Follow on Facebook
+       </Button>
     </StyledNav>
   )
 }
