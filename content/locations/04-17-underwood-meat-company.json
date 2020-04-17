@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Goods are delivered on door steps. Drivers get a safe distance back and await for customer to take goods from crate/box. Customer shuts door and driver collects box/crate.",
+  "name": "Underwood Meat Company",
+  "phone": "01483417474",
+  "address": "Unit 4 Corium House, Douglas Drive, Godalming GU7 1JX",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/v1587131530/underwood-meat-company_lgziqb.jpg",
+  "tags": [
+    "Butchers"
+  ],
+  "website": "https://www.underwoodmeat.co.uk/shop",
+  "deliveryHours": [
+    "Tuesday 09:00 - 17:00",
+    "Thursday 09:00 - 17:00",
+    "Saturday 09:00 - 17:00"
+  ],
+  "email": "https://www.underwoodmeat.co.uk/shop",
+  "description": "Fresh Butchery meats."
+}
