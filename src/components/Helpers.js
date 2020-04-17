@@ -30,7 +30,7 @@ export const isURL = (url) => {
 }
 
 export const formatPhone = (str) => {
-  return str.replace(/(\d{3})(\d{4})(\d{4})/,'$1 $2 $3'); 
+  return str.replace(/(\d{5})(\d{3})(\d{3})/,'$1 $2 $3'); 
 }
 
 export const isEmail = (str) => {
