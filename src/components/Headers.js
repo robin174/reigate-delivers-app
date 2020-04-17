@@ -35,7 +35,7 @@ export const HeroHeader = ({ search }) => {
 
 const StyledHeroHeader = styled.header`
   display:block;
-  padding:var(--spacing-xxl) 0;
+  padding:var(--spacing-xxxl) 0;
   padding-bottom:calc(var(--spacing-lg) * 2.5);
   background-color:var(--base);
   background-size:cover;
@@ -51,6 +51,7 @@ const StyledHeroHeader = styled.header`
   }
 
   @media(min-width:48rem) {
+    padding:var(--spacing-xxl) 0;
     padding-bottom:calc(var(--spacing-xl) * 1.5);
   }
 `

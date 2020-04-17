@@ -7,8 +7,8 @@
   --bg:#f0f0f0;
   --base:#0B132B;  
   --base-light:rgba(11, 19, 43, 0.05);
-  --primary:#FF5630;
-  --secondary:#6554C0;
+  --primary:#E20C5E;
+  --secondary:#FFB600;
   
   --text-high:var(--base);
   --text-med:rgba(11, 19, 43, 0.8);
@@ -26,6 +26,7 @@
   --spacing-lg:3rem;
   --spacing-xl:6rem;
   --spacing-xxl:10rem;
+  --spacing-xxxl:14rem;
 }
 
 *,
