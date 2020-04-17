@@ -12,6 +12,15 @@ Once your site is up and running you'll be able to log in to the CMS via /admin/
 
 You'll need a Cloudinary account - this is the CDN that the images are hosted on.
 
+##Netlify
+
+##Signup to CMS
+In order to access the CMS - you need to connect enable xxx under 'xxx'.
+
+Once enabled, sign-up here: 
+
+Takes a little time for the email confirmation to come through.
+
 ##Additional
 
 ### Brand Colours
