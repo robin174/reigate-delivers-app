@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Kitchen is deep cleaned every day and food is prepared wearing full PPE. Delivery driver with be wearing a hazmat suit, face mask, and a fresh pair of gloves. They will drop the food at your door, knock, and stand back 5 meters minimum until you open the door and collect your food.",
+  "name": "The Gallery",
+  "phone": "07837835326",
+  "address": "82 High Street, Reigate RH2 9AP",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587144823/the-gallery_o8xpsu.jpg",
+  "tags": [
+    "Bread",
+    "Food",
+    "Restaurant",
+    "Organic",
+    "Brownies"
+  ],
+  "website": "www.facebook.com/thegalleryreigate/",
+  "deliveryHours": [
+    "Monday 09:00 - 15:00",
+    "Tuesday 09:00 - 15:00",
+    "Wednesday 09:00 - 15:00",
+    "Thursday 09:00 - 15:00",
+    "Friday 09:00 - 15:00",
+    "Saturday 09:00 - 15:00",
+    "Sunday 09:00 - 15:00"
+  ],
+  "email": "info@thegalleryreigate.com",
+  "description": "We are a Café selling artisan sandwiches, drinks, and snacks. We also sell survival packages with essentials such as bread, milk, eggs, soap, tea bags, and jam and butter portions. These packages will also be available for free for vulnerable people in the community and have been paid forward by other generous locals. Ask us about paying it forward yourself if you would like to support our efforts and are in a position to do so."
+}
