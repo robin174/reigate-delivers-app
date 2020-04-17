@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Please enquire directly about safety measures.",
+  "name": "Sample Business",
+  "phone": "01737300200",
+  "address": "40, Sample Rd, Surrey RH2 1JX",
+  "cover": "https://res.cloudinary.com/dgbpwtij2/image/upload/c_limit,f_auto,q_80,w_500/v1586461538/IMG_3871_mnj9ie.jpg",
+  "tags": [
+    "Baked Goods",
+    "Frozen Meals"
+  ],
+  "website": "https://www.samplebusiness.co.uk",
+  "deliveryHours": [
+    "Wednesday 12:00 - 18:00",
+    "Friday 12:00 - 18:00"
+  ],
+  "email": "email@samplebusiness.co.uk",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor porta ex a consectetur. Vivamus lorem quam, posuere id tellus non, suscipit scelerisque est."
+}
