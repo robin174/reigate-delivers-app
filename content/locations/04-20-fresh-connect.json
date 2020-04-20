@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Contactless deliveries, left on doorstep or safe place.",
+  "name": "Fresh Connect",
+  "phone": "02077204126",
+  "address": "Chipstead Lane, Coulsdon CR5 ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587376279/freshconnect_jisrug.jpg",
+  "tags": [
+    "Bread",
+    "Food",
+    "Veg Box",
+    "Dairy",
+    "Meat",
+    "Cheese"
+  ],
+  "website": "www.freshconnectuk.com",
+  "deliveryHours": [
+    "Monday 06:00 - 16:00",
+    "Tuesday 06:00 - 16:00",
+    "Wednesday 06:00 - 16:00",
+    "Thursday 06:00 - 16:00",
+    "Friday 06:00 - 16:00"
+  ],
+  "email": "homedeliveries@freshconnectuk.com",
+  "description": "Delivering fruits, vegetables, dairy, dried & household goods "
+}
