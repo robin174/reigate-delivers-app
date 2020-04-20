@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Doorstep deliveries, non-contact.",
+  "name": "Squires Garden Centre",
+  "phone": "01737247217",
+  "address": "Reigate Road, Buckland",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587375849/squires_rdvfyk.jpg",
+  "tags": [
+    "homewares",
+    "garden",
+    "plants"
+  ],
+  "website": "https://www.squiresgardencentres.co.uk/",
+  "deliveryHours": [
+    "Monday 09:00 - 17:00",
+    "Tuesday 09:00 - 17:00",
+    "Wednesday 09:00 - 17:00",
+    "Thursday 09:00 - 17:00",
+    "Friday 09:00 - 17:00",
+    "Saturday 09:00 - 17:00",
+    "Sunday 09:00 - 17:00"
+  ],
+  "description": "Plants & garden accessories."
+}
