@@ -54,10 +54,7 @@
   },
   "description": "Reigate Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/robin174/reigate-delivers-app.git"
-  },
+  "repository": "git+https://github.com/robin174/reigate-delivers-app.git",
   "author": "Robin Green",
   "license": "ISC",
   "bugs": {
