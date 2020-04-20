@@ -1,0 +1,14 @@
+{
+  "name": "Cullenders Parkside",
+  "description": "At Cullenders we are known for good quality homemade food. We are delivering dishes from a menu we have created including; meze, soup, pate, mousakka, short rib ragu, vegan options, cheese boards, lemon possets and other dishes. The dishes are freshly prepared and delivered chilled and ready to re-heat at home. We have a varying menu that will be changing every few weeks.",
+  "tags": [
+    "Food",
+    "Restaurant",
+    "Cheese"
+  ],
+  "address": "73 Bell Street, Reigate RH2 7AN",
+  "website": "www.cullenders.com",
+  "email": "marc@cullenders.com",
+  "safetyTips": "Food is packaged up, delivered and left on your doorstep.",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377543/cullenders_swphno.jpg"
+}
