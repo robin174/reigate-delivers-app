@@ -1,0 +1,19 @@
+{
+  "safetyTips": "UK wide delivery and no contact click-and-collect.",
+  "name": "Mandira’s Kitchen",
+  "phone": "01483940789",
+  "address": "Silent Pool, Shere Road, Albury GU5 9BW ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377319/mandira-kitchen_aogmm0.jpg",
+  "tags": [
+    "Food"
+  ],
+  "website": "www.mandiraskitchen.com",
+  "deliveryHours": [
+    "Tuesday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Thursday 10:00 - 17:00",
+    "Friday 10:00 - 17:00"
+  ],
+  "email": "enquiries@mandiraskitchen.com",
+  "description": "Award-winning Indian freezer meals. Handmade in small batches using fresh produce and no additives. Gluten free with dairy free and vegan options. Ready from frozen in 4 minutes. UK wide delivery and no contact click-and-collect."
+}
