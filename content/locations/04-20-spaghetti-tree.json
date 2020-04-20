@@ -1,0 +1,25 @@
+{
+  "safetyTips": "All of our staff are wearing PPE. We are offering a ZERO CONTACT delivery service.",
+  "name": "Spaghetti Tree",
+  "phone": "01737819919",
+  "address": "1 Walton Street, Walton on the Hill, Tadworth KT20 7RW",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587376810/spaghetti-tree_wpibrl.jpg",
+  "tags": [
+    "Wine",
+    "Beer",
+    "Food",
+    "Ice Cream",
+    "Restaurant"
+  ],
+  "website": "www.spaghettitree.co.uk",
+  "deliveryHours": [
+    "Monday 12:00 - 15:00, 18:00 - 22:00",
+    "Tuesday 12:00 - 15:00, 18:00 - 22:00",
+    "Wednesday 12:00 - 15:00, 18:00 - 22:00",
+    "Thursday 12:00 - 15:00, 18:00 - 22:00",
+    "Friday 12:00 - 15:00, 18:00 - 22:00",
+    "Saturday 12:00 - 15:00, 18:00 - 22:00"
+  ],
+  "email": "info@spaghettitree.co.uk",
+  "description": "We are an independent family run restaurant. We deliver everything from pizza, pasta, steak, fish and desserts. We also delivery wine, cocktails, beers and ciders."
+}
