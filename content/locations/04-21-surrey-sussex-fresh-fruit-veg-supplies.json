@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Following all government guidelines. Keeping 2m distance at all times. Customers can pay through Pay Pal or contactless to save any contact. Also using disposable gloves when making delivery - washing and sanitising hands regularly.  ",
+  "name": "Surrey & Sussex Fresh Fruit & Veg Supplies",
+  "phone": "07947476963",
+  "address": "Lingfield, Surrey",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587458950/fresh-veg-lingfield_cbrsem.jpg",
+  "tags": [
+    "Fruit",
+    "Veg",
+    "Veg Box"
+  ],
+  "website": "https://www.facebook.com/Surrey-Sussex-Fresh-Fruit-Veg-Supplies-100547501626483/",
+  "deliveryHours": [
+    "Monday 09:00 - 18:00",
+    "Tuesday 09:00 - 18:00",
+    "Wednesday 09:00 - 18:00",
+    "Thursday 09:00 - 18:00",
+    "Friday 09:00 - 18:00",
+    "Saturday 09:00 - 18:00",
+    "Sunday 09:00 - 18:00"
+  ],
+  "description": "We supply the freshest fruit & veg with the highest of quality to help those who are in isolation, the vulnerable and to help those stay home & stay safe. We offer a range of mixed fruit & veg boxes."
+}
