@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Each customer has an allocated time slot where they collect the food from an isolated table to ensure no contact with anyone.  ",
+  "name": "Two Many Cooks",
+  "phone": "01737841624",
+  "address": "Brockham Green",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587550391/too-many-cooks_rlx9ye.jpg",
+  "tags": [
+    "Food",
+    "Coffee",
+    "Bread",
+    "Brownies",
+    "Veg Box",
+    "Fruit",
+    "Veg",
+    "Frozen Meals"
+  ],
+  "website": "https://twomanycooks.com/two-many-cooks-takeaway-delivery-service/",
+  "deliveryHours": [
+    "Wednesday: For collection",
+    "Thursday: For delivery",
+    "Friday: For collection"
+  ],
+  "email": "office@twomanycooks.com",
+  "description": "Normally catering private parties and events, now doing frozen ready meals, fresh fruit and veg boxes, pantry boxes, lunch boxes with our wonderful tarts and sausage rolls."
+}
