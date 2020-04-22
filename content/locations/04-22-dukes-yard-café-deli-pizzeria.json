@@ -1,0 +1,34 @@
+{
+  "safetyTips": "No contact delivery and one person at time in the shop.",
+  "name": "Duke's Yard Café, Deli & Pizzeria",
+  "phone": "07540790888",
+  "address": "The Station Pub, RH1 5RU",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587549101/thestation-delivery_k8jqi1.jpg",
+  "tags": [
+    "Food",
+    "Bread",
+    "Cheese",
+    "Dairy",
+    "Fish & Chips",
+    "Coffee",
+    "Cider",
+    "Beer",
+    "Wine",
+    "Organic",
+    "Vegan",
+    "Gluten-free",
+    "Thai",
+    "Chinese",
+    "Pizza"
+  ],
+  "website": "thestationpubsouthnutfield.co.uk",
+  "deliveryHours": [
+    "Wednesday 10:00 - 21:00",
+    "Thursday 10:00 - 21:00",
+    "Friday 10:00 - 21:00",
+    "Saturday 10:00 - 21:00",
+    "Sunday 10:00 - 21:00"
+  ],
+  "email": "nettlesjoseph@yahoo.co.uk",
+  "description": "We are known as a pub, we are now a deli/shop and takeaway delivery service. We deliver personal food boxes and we provide meals including Thai, Chinese, wood-fired pizzas and British cuisine. We sell fresh fruit and veg, and other food essentials. We stock gluten-free, vegan and dairy alternatives."
+}
