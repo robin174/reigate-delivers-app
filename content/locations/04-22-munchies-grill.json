@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Safe social distancing at 2m.",
+  "name": "Munchies Grill",
+  "phone": "01737668607",
+  "address": "2 The Facade, Holmesdale Road",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587548403/use-munchies-grill_jet8gd.jpg",
+  "tags": [
+    "Coffee",
+    "Kebabs",
+    "Burger"
+  ],
+  "website": "https://www.facebook.com/munchiescafe.reigate.3",
+  "deliveryHours": [
+    "Monday 12:00 - 21:00",
+    "Tuesday 12:00 - 21:00",
+    "Wednesday 12:00 - 21:00",
+    "Thursday 12:00 - 21:00",
+    "Friday 12:00 - 21:00",
+    "Saturday 12:00 - 21:00"
+  ],
+  "email": "munevvercaglar@outlook.com",
+  "description": "Breakfast and kebabs. Available on Just Eat."
+}
