@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Our wholesaler is working to government guildelines and delivering to an empty shop. We are closed to the public and making contactless deliveries only. Orders taken via telephone, website or email.",
+  "name": "Willows of Reigate",
+  "phone": "01737248484",
+  "address": "77a High Street, Reigate RH2 9AH",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587638396/use-willows_f2eirf.jpg",
+  "tags": [
+    "Flowers"
+  ],
+  "website": "http://www.willowsreigate.co.uk/",
+  "deliveryHours": [
+    "Monday 10:00 - 15:00",
+    "Tuesday 10:00 - 15:00",
+    "Wednesday 10:00 - 15:00",
+    "Thursday 10:00 - 15:00",
+    "Friday 10:00 - 15:00"
+  ],
+  "email": "flowers@willowsreigate.co.uk",
+  "description": "We are currently making contactless deliveries only of bouquets and plants and providing funeral tributes by special request."
+}
