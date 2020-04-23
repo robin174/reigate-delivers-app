@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Contactless Collection. If delivered, social distancing guidelines are observed.",
+  "name": "The Fresh Coffee Company ",
+  "phone": "07752747515",
+  "address": "St Marys Rd, Reigate RH2 7JH",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587648703/use-fresh-coffee-v2_wvo6ya.jpg",
+  "tags": [
+    "Coffee",
+    "Tea",
+    "Organic"
+  ],
+  "website": "https://www.thefreshcoffeecompany.com/",
+  "deliveryHours": [
+    "Monday 08:00 - 20:00",
+    "Tuesday 08:00 - 20:00",
+    "Wednesday 08:00 - 20:00",
+    "Thursday 08:00 - 20:00",
+    "Friday 08:00 - 20:00"
+  ],
+  "email": "orders@thefreshcoffeecompany.com",
+  "description": "We offer a hand-picked selection of premium coffees, artisan hand-blended teas and award winning hot chocolate."
+}
