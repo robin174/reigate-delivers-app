@@ -1,0 +1,31 @@
+{
+  "safetyTips": "We only allow one person into the restaurant at all times and when delivering we offer a hands-free delivery service if you wish. All our staff wear gloves and wash their hands every 20 minutes as advised by the government. We also use hand sanitiser and have a sanitiser spray that is used on top of our daily cleaning routine.",
+  "name": "Eighty Ate Burger",
+  "phone": "01737233888",
+  "address": "88 High Street, Reigate RH2 0AY",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587985672/use-eightyate_qhaaqn.jpg",
+  "tags": [
+    "Burgers",
+    "Food",
+    "Chips",
+    "Restaurant",
+    "Dairy-free",
+    "Meat",
+    "Beer",
+    "Chicken",
+    "Cider",
+    "Wine",
+    "Gluten-free"
+  ],
+  "website": "https://www.eightyateburgerat88.co.uk",
+  "deliveryHours": [
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00",
+    "Sunday 17:00 - 20:00"
+  ],
+  "email": "eightyateburgers@hotmail.com",
+  "description": "Our menu features an array of juicy, succulent meats that are sourced from a local butcher here in Reigate. As a burger lover, we encourage you to come along and try our eccentric burgers! We are currently open for takeaway and delivery service. We offer a delivery service within a 5 mile radius of the restaurant, alongside this we are also on Deliveroo and they offer a 3 mile radius from the restaurant."
+}
