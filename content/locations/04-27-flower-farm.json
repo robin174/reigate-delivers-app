@@ -1,0 +1,35 @@
+{
+  "safetyTips": "Standing two metres apart, leave at the door, using gloves, wiping clean.",
+  "name": "Flower Farm",
+  "phone": "01883742288",
+  "address": "Flower Farm, Oxted Road, Godstone RH9 8DE",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587984668/flower-farm_tnffjv.jpg",
+  "tags": [
+    "Food",
+    "Dairy",
+    "Meat",
+    "Beer",
+    "Cider",
+    "Wine",
+    "Baked Goods",
+    "Bread",
+    "Brownies",
+    "Cakes",
+    "Veg Box",
+    "Veg",
+    "Salad",
+    "Fruit",
+    "Eggs"
+  ],
+  "website": "https://flower-farm.co.uk",
+  "deliveryHours": [
+    "Monday 11:00 - 18:00",
+    "Tuesday 11:00 - 18:00",
+    "Wednesday 11:00 - 18:00",
+    "Thursday 11:00 - 18:00",
+    "Friday 11:00 - 18:00",
+    "Saturday 11:00 - 18:00"
+  ],
+  "email": "shop@flower-farm.co.uk",
+  "description": "Offering a wide range of fresh farm produce, home grown and locally sourced vegetables, fruit, meat and eggs reared on the farm, as well as a wide range of bespoke items from artisan nut butters and olive oil to pasta and and chilli jams. Plus a selection of beer and ales, brewed on the farm, wine and cider from a local vineyard. With 48 hour home delivery and collection."
+}
