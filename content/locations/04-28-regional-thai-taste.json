@@ -1,0 +1,31 @@
+{
+  "safetyTips": "All our staff wear gloves and use hand sanitiser and wash their hand every 20 minutes as per government guidelines. We only allow one person in the restaurant at any one time for collections. We offer a hands-free delivery service for our customers if they wish.",
+  "name": "Regional Thai Taste",
+  "phone": "01737244818",
+  "address": "38a High Street, Reigate RH2 9AT",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588090415/use-taste-thai_fbqutg.jpg",
+  "tags": [
+    "Food",
+    "Restaurant",
+    "Thai",
+    "Chicken",
+    "Fish",
+    "Meat",
+    "Dairy-free",
+    "Beer",
+    "Cider",
+    "Wine",
+    "Vegan"
+  ],
+  "website": "http://www.regionalthaitaste.co.uk",
+  "deliveryHours": [
+    "Monday 17:00 - 21:00",
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00"
+  ],
+  "email": "regionalthaireigate@yahoo.com",
+  "description": "We are currently open for a takeaway and delivery service. We have delivery drivers working from our restaurant and we off a delivery of 5 mile radius from the restaurant, alongside this we are also on Deliveroo and they offer a 3 mile radius from the restaurant."
+}
