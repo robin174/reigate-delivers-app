@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Online ordering, contactless pay, products wiped with alcohol.",
+  "name": "Pilgrim Brewery",
+  "phone": "01737222651",
+  "address": "11 West Street, Reigate RH2 8JX",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588151955/use-pilgrim_agwbxr.jpg",
+  "tags": [
+    "Beer",
+    "Cider",
+    "Gifts",
+    "Clothing"
+  ],
+  "website": "https://www.pilgrim.co.uk",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00",
+    "Tuesday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Thursday 10:00 - 17:00",
+    "Friday 10:00 - 17:00",
+    "Saturday 10:00 - 17:00"
+  ],
+  "email": "info@pilgrim.co.uk",
+  "description": "Craft Brewery based in Reigate since 1984 producing traditional ales, modern beers and lagers."
+}
