@@ -1,0 +1,16 @@
+{
+  "safetyTips": "Our delivery team are taking every precaution they possibly can to ensure the safety of our customers. That includes using appropriate PPE and maintaining a safe distance when making deliveries.",
+  "name": "Hofmeister Brewing Company",
+  "phone": "01293310017",
+  "address": "285-293 High Street, Dorking RH4 1RL",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588151692/use-hofmeister_onfsjc.jpg",
+  "tags": [
+    "Beer"
+  ],
+  "website": "https://www.hofmeister.co.uk/",
+  "deliveryHours": [
+    "Thursday 09:00 - 17:00"
+  ],
+  "email": "orders@hofmeister.co.uk",
+  "description": "Hofmeister Helles is an authentic imported Bavarian lager. Made using just mineral water, barley and hops, Hofmeister beer is lagered slower at zero degrees, for a fresh, crisp, Helles lager. Being local, we're opening up free delivery of our cases of 24 x 330ml bottles to customers in Reigate and within a 15 mile radius. Each case is £39.99 delivered to your door - simply email or call the team to order and we'll do the rest."
+}
