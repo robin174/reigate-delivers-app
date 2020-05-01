@@ -1,22 +1,252 @@
 [
   {
-    "safetyTips": "Call to order.",
-    "name": "Backup Entry",
-    "phone": "07939101004",
-    "address": "Park Lane, Reigate, Surrey RH2 8JX",
-    "cover": "",
+    "safetyTips": "Our gloved delivery drivers are the only two people handling delivery boxes and bags, and we have a maximum of three team members at any time in store with no access for customers. We are able to handle goods as little as possible (just one person picking your order) and our cleaning and hygiene regime is to the extreme (especially when Lucia is in!).",
+    "name": "InsideOut Health",
+    "phone": "01737223499",
+    "address": "3 Church Street, Reigate RH2 0AA",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587133975/inside-out-health_wx2wel.jpg",
     "tags": [
-      "Design"
+      "Food",
+      "Coffee",
+      "Ice Cream",
+      "Organic",
+      "Dairy",
+      "Baked Goods",
+      "Brownies",
+      "Homewares"
     ],
-    "website": "https://www.designingreen.co.uk",
+    "website": "https://www.inside-out-health.com",
+    "email": "info@inside-out-health.com",
+    "description": "We are Reigate's independent health food shop! We are a team of Nutritional Therapists with a passion for good food, environmentally friendly living and natural skincare. We stock earth friendly household products, practitioner level supplements, whole foods, chilled and frozen food, clean bodycare ranges and amazing speciality foods such as gluten free, organic dairy and vegan products. During lockdown we are offering FREE DELIVERY to Reigate, Redhill and surrounding areas including Banstead, Dorking and Tadworth. ",
+    "id": "04-17-insideout-health"
+  },
+  {
+    "safetyTips": "Kitchen is deep cleaned every day and food is prepared wearing full PPE. Delivery driver with be wearing a hazmat suit, face mask, and a fresh pair of gloves. They will drop the food at your door, knock, and stand back 5 meters minimum until you open the door and collect your food.",
+    "name": "The Gallery",
+    "phone": "07837835326",
+    "address": "82 High Street, Reigate RH2 9AP",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587144823/the-gallery_o8xpsu.jpg",
+    "tags": [
+      "Bread",
+      "Food",
+      "Restaurant",
+      "Organic",
+      "Brownies"
+    ],
+    "website": "https://www.facebook.com/thegalleryreigate/",
     "deliveryHours": [
-      "Monday 10:00 - 16:00",
-      "Tuesday 10:00 - 16:00",
-      "Wednesday 10:00 - 16:00",
-      "Thursday 10:00 - 16:00",
-      "Friday 10:00 - 16:00"
+      "Monday 09:00 - 15:00",
+      "Tuesday 09:00 - 15:00",
+      "Wednesday 09:00 - 15:00",
+      "Thursday 09:00 - 15:00",
+      "Friday 09:00 - 15:00",
+      "Saturday 09:00 - 15:00",
+      "Sunday 09:00 - 15:00"
     ],
-    "description": "Designingreen is a local design & development agency, helping companies navigate today's digital landscape.",
-    "id": "04-17-designingreen"
+    "email": "info@thegalleryreigate.com",
+    "description": "We are a Café selling artisan sandwiches, drinks, and snacks. We also sell survival packages with essentials such as bread, milk, eggs, soap, tea bags, and jam and butter portions. These packages will also be available for free for vulnerable people in the community and have been paid forward by other generous locals. Ask us about paying it forward yourself if you would like to support our efforts and are in a position to do so.",
+    "id": "04-17-the-gallery"
+  },
+  {
+    "safetyTips": "We operate a signature free, drop and go delivery system",
+    "name": "The Vineking",
+    "phone": "01737244823",
+    "address": "38 Church Street, Reigate RH2 0AJ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587143888/thevineking_vxaiwd.jpg",
+    "tags": [
+      "Wine",
+      "Beer",
+      "Organic",
+      "Cider",
+      "Cheese",
+      "Gifts",
+      "Coffee"
+    ],
+    "website": "https://www.thevineking.com",
+    "deliveryHours": [
+      "Monday 10:00 - 18:00",
+      "Tuesday 10:00 - 18:00",
+      "Wednesday 10:00 - 18:00",
+      "Thursday 10:00 - 18:00",
+      "Friday 10:00 - 18:00",
+      "Saturday 10:00 - 18:00"
+    ],
+    "email": "orders@thevineking.com",
+    "description": "We are an Independent Wine Merchants and have been in Reigate since 2005.  We stock and deliver a wide range of wines, starting from £7.50 but also beers, spirits and we Deli Boards to enjoy at home too.  We offer free local delivery for all orders over £50, otherwise there is a £5 delivery charge.",
+    "id": "04-17-the-vineking"
+  },
+  {
+    "safetyTips": "Goods are delivered on door steps. Drivers get a safe distance back and await for customer to take goods from crate/box. Customer shuts door and driver collects box/crate.",
+    "name": "Underwood Meat Company",
+    "phone": "01483417474",
+    "address": "Unit 4 Corium House, Douglas Drive, Godalming GU7 1JX",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/v1587132033/underwood-oxtail_small_m5vygh.jpg",
+    "tags": [
+      "Butchers",
+      "Meat"
+    ],
+    "website": "https://www.underwoodmeat.co.uk/shop",
+    "deliveryHours": [
+      "Tuesday 09:00 - 17:00",
+      "Thursday 09:00 - 17:00",
+      "Saturday 09:00 - 17:00"
+    ],
+    "email": "sales.umcsouth@underwoodmeat.co.uk",
+    "description": "Fresh Butchery meats.",
+    "id": "04-17-underwood-meat-company"
+  },
+  {
+    "safetyTips": "All staff trained in food handling and are taking all recommended safety precautions. Contact free delivery, drivers wear masks and gloves and drop on doorstep. Only card accepted. No visitors to office.",
+    "name": "Upstream Seafoods",
+    "phone": "02086671251",
+    "address": "Horatius Way, Croydon CR0 4RU",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587143481/upstream-food_eh5ptr.jpg",
+    "tags": [
+      "Fish",
+      "Food"
+    ],
+    "website": "https://www.upstreamseafoods.com/",
+    "deliveryHours": [
+      "Tuesday 08:30 - 14:00",
+      "Thursday 08:30 - 14:00",
+      "Friday 08:30 - 14:00"
+    ],
+    "email": "orders@upstreamseafoods.com",
+    "description": "Fish and seafood - both fresh and frozen.",
+    "id": "04-17-upstream-seafoods"
+  },
+  {
+    "name": "Cullenders Parkside",
+    "description": "At Cullenders we are known for good quality homemade food. We are delivering dishes from a menu we have created including; meze, soup, pate, mousakka, short rib ragu, vegan options, cheese boards, lemon possets and other dishes. The dishes are freshly prepared and delivered chilled and ready to re-heat at home. We have a varying menu that will be changing every few weeks.",
+    "tags": [
+      "Food",
+      "Restaurant",
+      "Cheese"
+    ],
+    "address": "73 Bell Street, Reigate RH2 7AN",
+    "website": "www.cullenders.com",
+    "email": "marc@cullenders.com",
+    "safetyTips": "Food is packaged up, delivered and left on your doorstep.",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377543/cullenders_swphno.jpg",
+    "id": "04-20-cullenders-parkside"
+  },
+  {
+    "safetyTips": "Contactless deliveries, left on doorstep or safe place.",
+    "name": "Fresh Connect",
+    "phone": "02077204126",
+    "address": "Chipstead Lane, Coulsdon CR5 ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587376279/freshconnect_jisrug.jpg",
+    "tags": [
+      "Bread",
+      "Food",
+      "Veg Box",
+      "Dairy",
+      "Meat",
+      "Cheese"
+    ],
+    "website": "www.freshconnectuk.com",
+    "deliveryHours": [
+      "Monday 06:00 - 16:00",
+      "Tuesday 06:00 - 16:00",
+      "Wednesday 06:00 - 16:00",
+      "Thursday 06:00 - 16:00",
+      "Friday 06:00 - 16:00"
+    ],
+    "email": "homedeliveries@freshconnectuk.com",
+    "description": "Delivering fruits, vegetables, dairy, dried & household goods ",
+    "id": "04-20-fresh-connect"
+  },
+  {
+    "safetyTips": "UK wide delivery and no contact click-and-collect.",
+    "name": "Mandira’s Kitchen",
+    "phone": "01483940789",
+    "address": "Silent Pool, Shere Road, Albury GU5 9BW ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377319/mandira-kitchen_aogmm0.jpg",
+    "tags": [
+      "Food"
+    ],
+    "website": "www.mandiraskitchen.com",
+    "deliveryHours": [
+      "Tuesday 10:00 - 17:00",
+      "Wednesday 10:00 - 17:00",
+      "Thursday 10:00 - 17:00",
+      "Friday 10:00 - 17:00"
+    ],
+    "email": "enquiries@mandiraskitchen.com",
+    "description": "Award-winning Indian freezer meals. Handmade in small batches using fresh produce and no additives. Gluten free with dairy free and vegan options. Ready from frozen in 4 minutes. UK wide delivery and no contact click-and-collect.",
+    "id": "04-20-mandira’s-kitchen"
+  },
+  {
+    "safetyTips": "Virtual appointments to comply with social distancing rules, and sealed products home delivered.",
+    "name": "Sonia Christie",
+    "phone": "07712567879",
+    "address": "Windmill Way, Reigate RH2 0JA",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377070/1-1-diet_cginam.jpg",
+    "tags": [
+      "Food"
+    ],
+    "website": "https://www.one2onediet.com/consultants/23403/1/Sonia?p=1&c=GB&q=RH2%200JA%20&o=1",
+    "deliveryHours": [
+      "Monday 09:00 - 18:00",
+      "Tuesday 09:00 - 18:00",
+      "Wednesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00",
+      "Friday 09:00 - 18:00",
+      "Saturday 09:00 - 18:00",
+      "Sunday 09:00 - 18:00"
+    ],
+    "email": "one2onedietwithsoniac@gmail.com",
+    "description": "Having lost over 7 stone myself, and maintained for years, I am an Above and Beyond award winning consultant, supporting others to get themselves healthier and slimmer. With now virtual 1-to-1 appointments due to the current pandemic, and a personalised plan, with nutritionally balanced products that can be delivered direct to your door. With limited socialising, there’s never been a better time to lose weight!",
+    "id": "04-20-sonia-christie"
+  },
+  {
+    "safetyTips": "All of our staff are wearing PPE. We are offering a ZERO CONTACT delivery service.",
+    "name": "Spaghetti Tree",
+    "phone": "01737819919",
+    "address": "1 Walton Street, Walton on the Hill, Tadworth KT20 7RW",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587376810/spaghetti-tree_wpibrl.jpg",
+    "tags": [
+      "Wine",
+      "Beer",
+      "Food",
+      "Ice Cream",
+      "Restaurant"
+    ],
+    "website": "www.spaghettitree.co.uk",
+    "deliveryHours": [
+      "Monday 12:00 - 15:00, 18:00 - 22:00",
+      "Tuesday 12:00 - 15:00, 18:00 - 22:00",
+      "Wednesday 12:00 - 15:00, 18:00 - 22:00",
+      "Thursday 12:00 - 15:00, 18:00 - 22:00",
+      "Friday 12:00 - 15:00, 18:00 - 22:00",
+      "Saturday 12:00 - 15:00, 18:00 - 22:00"
+    ],
+    "email": "info@spaghettitree.co.uk",
+    "description": "We are an independent family run restaurant. We deliver everything from pizza, pasta, steak, fish and desserts. We also delivery wine, cocktails, beers and ciders.",
+    "id": "04-20-spaghetti-tree"
+  },
+  {
+    "safetyTips": "Doorstep deliveries, non-contact.",
+    "name": "Squires Garden Centre",
+    "phone": "01737247217",
+    "address": "Reigate Road, Buckland",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587375849/squires_rdvfyk.jpg",
+    "tags": [
+      "homewares",
+      "garden",
+      "plants"
+    ],
+    "website": "https://www.squiresgardencentres.co.uk/",
+    "deliveryHours": [
+      "Monday 09:00 - 17:00",
+      "Tuesday 09:00 - 17:00",
+      "Wednesday 09:00 - 17:00",
+      "Thursday 09:00 - 17:00",
+      "Friday 09:00 - 17:00",
+      "Saturday 09:00 - 17:00",
+      "Sunday 09:00 - 17:00"
+    ],
+    "description": "Plants & garden accessories.",
+    "id": "04-20-squires-garden-centre"
   }
 ]
