@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Kerbside delivery, non-contact, payment over the phone only.",
+  "name": "Priory Farm Nursery",
+  "address": "Sandy Lane, South Nutfield, Redhill RH1 4EJ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587549803/priory-farm-nursery_wmqkc6.jpg",
+  "tags": [
+    "Garden",
+    "Plants",
+    "Compost",
+    "Flowers"
+  ],
+  "website": "https://www.facebook.com/prioryfarmnursery/",
+  "deliveryHours": [
+    "Monday 09:00 - 17:30",
+    "Tuesday 09:00 - 17:30",
+    "Wednesday 09:00 - 17:30",
+    "Thursday 09:00 - 17:30",
+    "Friday 09:00 - 17:30"
+  ],
+  "email": "plants@prioryfarmnursery.co.uk",
+  "description": "Home grown plants, garden furniture, BBQ and compost."
+}

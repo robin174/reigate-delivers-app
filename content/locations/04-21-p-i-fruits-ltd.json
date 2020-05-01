@@ -1,0 +1,23 @@
+{
+  "safetyTips": "PayPal - therefore no cash on delivery. Knock and produce is left on the doorstep - no face-to-face contact necessary!",
+  "name": "P&I Fruits Ltd",
+  "address": "37 The Street, Ashtead KT21 1AA",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587461746/pandi-fruits_j3dirk.jpg",
+  "tags": [
+    "Veg Box",
+    "Veg",
+    "Fruit",
+    "Salad"
+  ],
+  "website": "https://www.pifruits.co.uk/shop",
+  "deliveryHours": [
+    "Monday 08:30 - 14:30",
+    "Tuesday 08:30 - 14:30",
+    "Wednesday 08:30 - 14:30",
+    "Thursday 08:30 - 14:30",
+    "Friday 08:30 - 14:30",
+    "Saturday 08:30 - 14:30"
+  ],
+  "email": "ashtead-fresh-produce-boxes@outlook.com",
+  "description": "Fresh fruit and veg wholesaler in New Covent Garden Market - usually supplying the hospitality trade around London. Now using its resources to ensure the local areas can get the fruit, veg, salad, berries & more that they need."
+}

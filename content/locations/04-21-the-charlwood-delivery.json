@@ -1,0 +1,32 @@
+{
+  "safetyTips": "All our staff are trained fully in food hygiene regulations, COVID health and safety for key workers, all staff carry hand sanitiser and disposable safety gloves.",
+  "name": "The Charlwood Delivery",
+  "phone": "01293862203",
+  "address": "The Charlwood, 12 The Street, Charlwood RH6 0BE",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587459748/thecharlwood_l7odau.jpg",
+  "tags": [
+    "Meat",
+    "Fruit",
+    "Veg",
+    "Restaurant",
+    "Dairy",
+    "Fish",
+    "Beer",
+    "Wine",
+    "Cheese",
+    "Fish",
+    "Pub"
+  ],
+  "website": "https://thecharlwooddelivery.co.uk/",
+  "deliveryHours": [
+    "Monday 09:00 - 22:00",
+    "Tuesday 09:00 - 22:00",
+    "Wednesday 09:00 - 22:00",
+    "Thursday 09:00 - 22:00",
+    "Friday 09:00 - 22:00",
+    "Saturday 09:00 - 22:00",
+    "Sunday 09:00 - 22:00"
+  ],
+  "email": "enquiries@thecharlwood.co.uk",
+  "description": "Normally an amazing restaurant. On the 20 March we became an amazing food delivery operations - supplying fresh quality food and groceries (meats, veg, fruit, dairy, provisions) and restaurant quality hot takeaway food and drinks."
+}

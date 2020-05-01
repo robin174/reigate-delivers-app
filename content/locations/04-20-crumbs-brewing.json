@@ -1,0 +1,23 @@
+{
+  "safetyTips": "All social distancing guidelines observed when delivering. Will drop knock and leave!",
+  "name": "Crumbs Brewing",
+  "phone": "07801045864",
+  "address": "Cockshot Rd, Reigate",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403487/crumbs-brewing_rit4jn.jpg",
+  "tags": [
+    "Beer",
+    "Gifts",
+    "Zero Waste"
+  ],
+  "website": "https://www.crumbsbrewing.co.uk/shop/",
+  "deliveryHours": [
+    "Monday 10:00 - 19:00",
+    "Tuesday 10:00 - 19:00",
+    "Wednesday 10:00 - 19:00",
+    "Thursday 10:00 - 19:00",
+    "Friday 10:00 - 19:00",
+    "Saturday 10:00 - 19:00"
+  ],
+  "email": "hello@crumbsbrewing.co.uk",
+  "description": "We make beer using unsold loaves from Chalk Hills Bakery in Reigate. We offer free delivery of all our range, either as cases or smaller gift packs: Sourdough Pale Ale 4.2%, Bloomin’ Amber Lager 4.8%, Rye Ruby Ale 5.0%. We also deliver nationally by courier."
+}

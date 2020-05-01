@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Pavement collection or delivery by bicycle or on foot. Office is spray-cleaned frequently with isopropyl alcohol.",
+  "name": "All Your Business Needs",
+  "phone": "01737226677",
+  "address": "22 Holmesdale Road, Reigate RH2 0BQ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588150775/use-aybn_s8tdgy.jpg",
+  "tags": [
+    "Stationery",
+    "Printing"
+  ],
+  "website": "https://www.aybn.co.uk/",
+  "deliveryHours": [
+    "Monday 12:00 - 15:00",
+    "Tuesday 12:00 - 15:00",
+    "Wednesday 12:00 - 15:00",
+    "Thursday 12:00 - 15:00",
+    "Friday 12:00 - 15:00"
+  ],
+  "email": "info@aybn.co.uk",
+  "description": "Still printing Locally - collection or delivery. A6 to A1 on a range of papers. Documents, photographs, posters, banners and plans. Stationery including 80gsm bond paper. We also offer web services and some help with email and communications software. Although our over the counter service and shopfront is closed, we are able to offer pavement collection. Alternatively we can offer delivery by bicycle or on foot for 20% of the order value (£2.50 minimum)."
+}

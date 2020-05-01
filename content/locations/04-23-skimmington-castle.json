@@ -1,0 +1,28 @@
+{
+  "safetyTips": "We have designated time slots for you to collect your takeaway so there is only ever one customer picking up at any one time. At your designated time slot your takeaway will be placed on a table outside the front door. On the table will be some hand gel which you are welcome to use before removing you bag, then just grab and go.",
+  "name": "Skimmington Castle",
+  "phone": "01737243100",
+  "address": "Bonnys Road, Reigate RH2 8RL ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587638840/use-skimmington-castle_di6v98.jpg",
+  "tags": [
+    "Restaurant",
+    "Food",
+    "Fish & Chips",
+    "Chips",
+    "Chicken",
+    "Burgers",
+    "Meat",
+    "Fish",
+    "Pub"
+  ],
+  "website": "https://skimmingtoncastle.co.uk/",
+  "deliveryHours": [
+    "Wednesday 16:00 - 20:00",
+    "Thursday 16:00 - 20:00",
+    "Friday 16:00 - 20:00",
+    "Saturday 16:00 - 20:00",
+    "Sunday 12:00 - 17:00"
+  ],
+  "email": "info@skimmingtoncastle.co.uk",
+  "description": "Our new drive-thru service offers our famous fish pies, delicious home cooked roasts and traditional pub classics. Collection only."
+}

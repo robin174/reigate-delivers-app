@@ -1,0 +1,23 @@
+{
+  "safetyTips": "No contact delivery. We ring your doorbell/knock your knocker to let you know the delivery has arrived.",
+  "name": "Chalk Hills Bakery",
+  "address": "75 Bell Street, Reigate RH2 7AN",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403080/chalk-hill-bakery_t5x1bs.jpg",
+  "tags": [
+    "Bread",
+    "Dairy",
+    "Beer",
+    "Cakes",
+    "pastries"
+  ],
+  "website": "https://goodeats.io/CHB",
+  "deliveryHours": [
+    "Monday 09:00 - 12:00",
+    "Tuesday 09:00 - 12:00",
+    "Wednesday 09:00 - 12:00",
+    "Thursday 09:00 - 12:00",
+    "Friday 09:00 - 12:00"
+  ],
+  "email": "sourdough@chalkhillsbakery.com",
+  "description": "We're an artisan bakery supplying proper bread, pastries and cakes to Reigate, Redhill, Horley and areas in between."
+}

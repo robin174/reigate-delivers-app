@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Locksmith’s are all CRB checked, carry PPE and disinfectant wipes for before and after work.",
+  "name": "Southern Lock & Safe Co. Ltd",
+  "phone": "01737242414",
+  "address": "Pool House, Bancroft Road, Reigate RH2 7RP",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588151372/use-southern-lock_iqqsex.jpg",
+  "tags": [
+    "Home & Garden"
+  ],
+  "website": "https://www.southernlockandsafe.co.uk",
+  "deliveryHours": [
+    "Monday 08:00 - 18:00",
+    "Tuesday 08:00 - 18:00",
+    "Wednesday 08:00 - 18:00",
+    "Thursday 08:00 - 18:00",
+    "Friday 08:00 - 18:00",
+    "Saturday 08:00 - 18:00"
+  ],
+  "email": "mail@southernlockandsafe.co.uk",
+  "description": "We are still open by appointment for emergency calls and key cutting at the shop. We will endeavour to do our best to help you and your business in the quickest possible time."
+}
