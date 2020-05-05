@@ -1,0 +1,25 @@
+{
+  "safetyTips": "Leave delivery outside door, knock/ring doorbell and leave.",
+  "name": "Nourish - Grow, Cook, Enjoy",
+  "address": "Dovers Farm, Reigate",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668452/use-nourish_r4zlab.jpg",
+  "tags": [
+    "Food",
+    "Dairy-free",
+    "Baked Goods",
+    "Gluten-free",
+    "Organic",
+    "Vegan"
+  ],
+  "website": "https://nourish-growcookenjoy.com/",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00",
+    "Tuesday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Thursday 10:00 - 17:00",
+    "Friday 10:00 - 17:00",
+    "Saturday 10:00 - 17:00"
+  ],
+  "email": "kate@nourish-growcookenjoy.com",
+  "description": "Organic, gluten, dairy and refined sugar free nourishing treats. Coconut macaroons and bites, raw slices, cookies and more. Mostly vegan and grain free options."
+}
