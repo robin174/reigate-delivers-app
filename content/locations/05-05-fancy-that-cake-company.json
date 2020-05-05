@@ -1,0 +1,23 @@
+{
+  "safetyTips": "All boxes are wrapped in film 24 hours before delivery to allow for easy packaging removal, and hand-washing. ",
+  "name": "Fancy That Cake Company",
+  "phone": "07961987908",
+  "address": "3 Bolsover Grove, Merstham RH1 3NU ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588669182/use-fancythat_p6uhxh.jpg",
+  "tags": [
+    "Cakes",
+    "Baked Goods"
+  ],
+  "website": "https://fancythatcc.co.uk",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "email": "fancythatcc@gmail.com",
+  "description": "Cakes, cake pops, graze boxes."
+}
