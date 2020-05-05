@@ -2,7 +2,7 @@
   "safetyTips": "All staff trained in food handling and are taking all recommended safety precautions. Contact free delivery, drivers wear masks and gloves and drop on doorstep. Only card accepted. No visitors to office.",
   "name": "Upstream Seafoods",
   "phone": "02086671251",
-  "address": "Horatius Way, Croydon CR0 4RU",
+  "address": "Unit 5-7 Horatius Way, Croydon CR0 4RU",
   "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587143481/upstream-food_eh5ptr.jpg",
   "tags": [
     "Fish",
@@ -10,10 +10,10 @@
   ],
   "website": "https://www.upstreamseafoods.com/",
   "deliveryHours": [
-    "Tuesday 08:30 - 14:00",
-    "Thursday 08:30 - 14:00",
-    "Friday 08:30 - 14:00"
+    "Tuesday 08:00 - 16:00",
+    "Thursday 08:00 - 16:00",
+    "Friday 08:00 - 16:00"
   ],
   "email": "orders@upstreamseafoods.com",
-  "description": "Fish and seafood - both fresh and frozen."
+  "description": "Fish wholesalers to restaurants hotels, caterers and now delivering to private addresses."
 }
