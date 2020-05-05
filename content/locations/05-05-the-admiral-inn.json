@@ -1,6 +1,9 @@
 {
+  "safetyTips": "We are taking an extra level of care to keep our customers safe at all times, we have put in place the 2m distance and if you are coming to collect your takeaway we are ensuring we only have one customer in at a time. If you wish a contact free delivery we will leave your food and drink in the place we have been instructed, payments for this will be made when you order. We understand this is a very difficult time for everybody but we want to keep everyone as safe as possible. ",
   "name": "The Admiral Inn",
-  "description": "The Admiral Inn is a small local pub in Reigate where you can find us on Nutley Lane. We are offering a free home delivery service for pizzas, burgers, beers, wine and a selection of soft drinks.",
+  "phone": "01737242100",
+  "address": "109A Nutley Lane, Reigate RH2 9EF",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668678/use-admiral_uojbow.jpg",
   "tags": [
     "Pizza",
     "Burgers",
@@ -9,9 +12,15 @@
     "Chicken",
     "Chips"
   ],
-  "address": "109A Nutley Lane, Reigate RH2 9EF",
-  "phone": "01737242100",
   "website": "https://www.facebook.com/admiralreigate",
-  "safetyTips": "We are taking an extra level of care to keep our customers safe at all times, we have put in place the 2m distance and if you are coming to collect your takeaway we are ensuring we only have one customer in at a time. If you wish a contact free delivery we will leave your food and drink in the place we have been instructed, payments for this will be made when you order. We understand this is a very difficult time for everybody but we want to keep everyone as safe as possible. ",
-  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668678/use-admiral_uojbow.jpg"
+  "deliveryHours": [
+    "Monday 16:00 - 21:00",
+    "Tuesday 16:00 - 21:00",
+    "Wednesday 16:00 - 21:00",
+    "Thursday 16:00 - 21:00",
+    "Friday 16:00 - 21:00",
+    "Saturday 16:00 - 21:00",
+    "Sunday 16:00 - 21:00"
+  ],
+  "description": "The Admiral Inn is a small local pub in Reigate where you can find us on Nutley Lane. We are offering a free home delivery service for pizzas, burgers, beers, wine and a selection of soft drinks."
 }
