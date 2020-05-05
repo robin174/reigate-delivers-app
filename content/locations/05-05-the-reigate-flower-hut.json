@@ -1,0 +1,25 @@
+{
+  "safetyTips": "We will place flowers on the doorstep then knock and step away.",
+  "name": "The Reigate Flower Hut ",
+  "phone": "07779024250",
+  "address": "Castle Drive, Reigate RH2 8DQ ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588669599/use-reigatehut_h3bslb.jpg",
+  "tags": [
+    "Flowers",
+    "Plants",
+    "Compost",
+    "Gifts"
+  ],
+  "website": "https://www.facebook.com/reigateflowerhut/",
+  "deliveryHours": [
+    "Monday 08:00 - 17:00",
+    "Tuesday 08:00 - 17:00",
+    "Wednesday 08:00 - 17:00",
+    "Thursday 08:00 - 17:00",
+    "Friday 08:00 - 17:00",
+    "Saturday 08:00 - 17:00",
+    "Sunday 08:00 - 17:00"
+  ],
+  "email": "info@thereigateflowerhut.co.uk",
+  "description": "Florist, delivery flowers and funeral tributes."
+}
