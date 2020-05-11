@@ -1,0 +1,23 @@
+{
+  "safetyTips": "We are not asking for signatures and also knock and stand two metres back. We also have special instruction request section on all orders online.",
+  "name": "BFP Express",
+  "phone": "07534321113",
+  "address": "RH1 22JQ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589200855/use-bakery-express_mqoyvn.jpg",
+  "tags": [
+    "Flour",
+    "Yeast",
+    "Baked Goods"
+  ],
+  "website": "https://www.bfp-xpress.co.uk",
+  "deliveryHours": [
+    "Monday 07:00 - 19:00",
+    "Tuesday 07:00 - 19:00",
+    "Wednesday 07:00 - 19:00",
+    "Thursday 07:00 - 19:00",
+    "Friday 07:00 - 19:00",
+    "Saturday 07:00 - 19:00"
+  ],
+  "email": "Mikem@bfp.uk.com",
+  "description": "We are a wholesale bakery supplier, that now offer bakers flour and yeast to everyone. Our bread and cake flour range is large – please visit our site to have a look through – all flour has a long shelf life. We are delivering between 1–4 days of orders being placed. "
+}
