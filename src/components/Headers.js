@@ -26,7 +26,7 @@ export const HeroHeader = ({ search }) => {
       <Container>
         <h1>Reigate Delivers</h1>
         <p>Helping local restaurants, shops &amp; essential services that deliver direct to your door.</p>
-        <p>Try searching what you're looking for e.g. bread, coffee, beer, prescriptions:</p>
+        <p>Try searching what you're looking for e.g. bread, coffee, veg, gifts:</p>
         <LocationSearch />
       </Container>
     </StyledHeroHeader >
