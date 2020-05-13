@@ -1,0 +1,23 @@
+{
+  "safetyTips": "All deliveries will be taken remotely. We will do contactless deliveries and gloves/masks will be worn as needed. ",
+  "name": "Vintage Rose Crockery Hire",
+  "phone": "07517196884",
+  "address": "Greenwell Close, Godstone RH9 8NU",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668018/use-vintage-rose_mj9bi5.jpg",
+  "tags": [
+    "Baked Goods",
+    "Gift",
+    "Homeware"
+  ],
+  "website": "https://vintagerosecrockery.co.uk",
+  "deliveryHours": [
+    "Monday 10:00 - 16:00",
+    "Tuesday 10:00 - 16:00",
+    "Wednesday 10:00 - 16:00",
+    "Thursday 10:00 - 16:00",
+    "Friday 10:00 - 16:00",
+    "Saturday 10:00 - 16:00"
+  ],
+  "email": "info@vintagerosecrockery.co.uk",
+  "description": "We are a local business supplying gorgeous vintage crockery. If you or a loved one are celebrating a birthday/ anniversary during lockdown and are looking to make it a bit special we will drop off all you need to have a tea party in the comfort of your own home! We have also teamed up with a local cake-maker to offer an afternoon tea package. "
+}

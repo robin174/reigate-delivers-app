@@ -1,0 +1,24 @@
+{
+  "safetyTips": "One person fulfilling and dispatching orders.",
+  "name": "Houndsley ",
+  "phone": "07834228206",
+  "address": "Reigate",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588863062/use-houndsley_a2fvll.jpg",
+  "tags": [
+    "Pets",
+    "Gifts",
+    "Clothing",
+    "Homewares",
+    "Sports"
+  ],
+  "website": "https://houndsley.co.uk/",
+  "deliveryHours": [
+    "Monday 12:00 - 17:00",
+    "Tuesday 12:00 - 17:00",
+    "Wednesday 12:00 - 17:00",
+    "Thursday 12:00 - 17:00",
+    "Friday 12:00 - 17:00"
+  ],
+  "email": "info@houndsley.co.uk",
+  "description": "Stylish, cleverly designed dog walking bags and accessories."
+}
