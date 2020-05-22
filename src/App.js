@@ -9,13 +9,11 @@ import { HeroHeader, Nav } from './components/Headers';
 import { LoadingSpinner } from './components/Helpers';
 import { CustomForm } from './components/Forms';
 
-console.log(process.env.REACT_APP_CLOUDINARY_CLOUD_NAME)
-
 // Code Splitting
 const LocationList = React.lazy(() => import('./components/Locations').then(module => ({ default: module.LocationList })));
 const Modal = React.lazy(() => import('./components/Modal').then(module => ({ default: module.Modal })));
 
-const url = 'process.env.REACT_APP_MAILCHIMP_URL';
+const url = '{process.env.REACT_APP_MAILCHIMP_URL}';
 
 const App = () => {
   return (
