@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Contact free delivery with Uber Eats.",
+  "name": "Sea Salt Fish & Chips",
+  "phone": "01747244885",
+  "address": "41 Lesbourne Road, RH2 7JS",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590514711/use-fish-chips_t5ta76.jpg",
+  "tags": [
+    "Fish & Chips",
+    "Chips"
+  ],
+  "website": "http://www.seasaltreigate.com",
+  "deliveryHours": [
+    "Tuesday 16:30 - 21:00",
+    "Wednesday 16:30 - 21:00",
+    "Thursday 16:30 - 21:00",
+    "Friday 16:30 - 21:00",
+    "Saturday 16:30 - 21:00"
+  ],
+  "email": "seasaltreigate41@hotmail.com",
+  "description": "The Seasalt Group use only the finest ingredients, our fish is sourced from non-threatened fish stocks and we focus on providing you with a quality product."
+}
