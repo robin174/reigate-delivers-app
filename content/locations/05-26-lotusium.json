@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Online consultations and social distancing deliveries and collections.",
+  "name": "Lotusium",
+  "phone": "07958492174",
+  "address": "Chalkfield Road, RH6 9FT ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590516108/use-lotusium_ict5ui.jpg",
+  "tags": [
+    "Gifts",
+    "Organic"
+  ],
+  "website": "https://www.facebook.com/Lotusium/",
+  "deliveryHours": [
+    "Monday 10:00 - 15:00",
+    "Tuesday 10:00 - 15:00",
+    "Wednesday 10:00 - 15:00",
+    "Thursday 10:00 - 15:00",
+    "Friday 10:00 - 15:00",
+    "Saturday 10:00 - 15:00",
+    "Sunday 10:00 - 15:00"
+  ],
+  "email": "info@lotusium.co.uk",
+  "description": "Holistic therapist and Neal’s Yard Remedies Organic independent consultant. Currently delivering all your organic skincare and well being needs. I also do video consultations free of charge. "
+}
