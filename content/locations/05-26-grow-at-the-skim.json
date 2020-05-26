@@ -1,0 +1,19 @@
+{
+  "safetyTips": "Contactless payment & delivery.",
+  "name": "Grow at the Skim",
+  "phone": "07377449229",
+  "address": "Behind The Skimmington Castle, Reigate Heath, RH2 8RL",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590515309/use-grow-skim_vukrju.jpg",
+  "tags": [
+    "Plants",
+    "Garden",
+    "Home & Garden"
+  ],
+  "website": "https://www.growattheskim.co.uk",
+  "deliveryHours": [
+    "Tuesday 09:00 - 18:00",
+    "Thursday 09:00 - 18:00"
+  ],
+  "email": "grow@growattheskim.co.uk ",
+  "description": "Independent, recently set up plant nursery delivering plants (garden and house), hanging baskets and window boxes. We can also plant up your hanging baskets and containers."
+}
