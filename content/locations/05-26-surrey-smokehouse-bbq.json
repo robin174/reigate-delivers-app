@@ -1,0 +1,21 @@
+{
+  "safetyTips": "All our drivers will wear masks and gloves when delivering and will place food on the floor, ring the bell and step back. When collecting we will bring food out to you to your car. ",
+  "name": "Surrey Smokehouse BBQ",
+  "phone": "07843118014",
+  "address": "Old Reigatians Rugby Club, Park Lane RH2 8JX",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590515820/use-smokehouse_w5uxbn.jpg",
+  "tags": [
+    "Food",
+    "Chicken",
+    "Chips",
+    "Cheese",
+    "Meat"
+  ],
+  "website": "https://www.facebook.com/surreysmokehousebbq/",
+  "deliveryHours": [
+    "Friday 17:30 - 22:00",
+    "Saturday 17:30 - 22:00"
+  ],
+  "email": "info@balsamicfig.co.uk",
+  "description": "Our Smokehouse BBQ menu consists of mouthwatering food. Extra meaty ribs, melt in the mouth beef brisket, bursting with flavour pork belly, ultra tasty chicken wings, cheesy mac 'n' cheese and lots more."
+}
