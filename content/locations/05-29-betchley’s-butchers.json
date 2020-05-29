@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Items will be delivered by our driver who uses hand sanitizer before and after every delivery. He will knock on the door and leave your purchase by the door and will step away and wait for you to collect it. All payments can be made over the phone.",
+  "name": "Betchley’s Butchers",
+  "phone": "01737762292",
+  "address": "Timperley Gardens, Redhill RH1 2AU",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590755947/use-betchley_wtcryy.jpg",
+  "tags": [
+    "Butchers",
+    "Meat",
+    "Cheese",
+    "Eggs"
+  ],
+  "website": "https://www.facebook.com/betchleysbutchers/",
+  "deliveryHours": [
+    "Monday 09:00 - 14:00",
+    "Tuesday 09:00 - 14:00",
+    "Wednesday 09:00 - 14:00",
+    "Thursday 09:00 - 14:00",
+    "Friday 09:00 - 14:00",
+    "Saturday 09:00 - 14:00"
+  ],
+  "email": "nicbetchley@gmail.com",
+  "description": "All meat items."
+}
