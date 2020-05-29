@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Contactless payment, via website (PayPal or bank transfer) and door-step delivery. Wearing mask and gloves at all times.",
+  "name": "Macarons Versailles",
+  "phone": "07889478310",
+  "address": "7 Wysemead, Horley RH6 9XX",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590759294/use-macarons-vers_xzmop0.jpg",
+  "tags": [
+    "Food",
+    "Pastries",
+    "Baked Goods",
+    "Macarons",
+    "Gluten-free"
+  ],
+  "website": "https://www.macaronsversailles.com",
+  "deliveryHours": [
+    "Tuesday 10:00 - 18:00",
+    "Friday 10:00 - 18:00"
+  ],
+  "email": "jelena@macaronsversailles.com",
+  "description": "French macarons. Delivering my macaron boxes locally, for a £2 charge"
+}
