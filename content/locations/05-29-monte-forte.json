@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Social Distancing.",
+  "name": "Monte Forte",
+  "phone": "07584833810",
+  "pdf": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590756742/use-monteforte_dhki4u.jpg",
+  "address": "12 West Street, Reigate RH2 9BS",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590756742/use-monteforte_dhki4u.jpg",
+  "tags": [
+    "Food",
+    "Pizza",
+    "Restaurant",
+    "Dairy-free",
+    "Gluten-free",
+    "Vegan"
+  ],
+  "website": "https://www.monteforte.co.uk",
+  "deliveryHours": [
+    "Tuesday 17:00 - 21:00",
+    "Wednesday 17:00 - 21:00",
+    "Thursday 17:00 - 21:00",
+    "Friday 17:00 - 21:00",
+    "Saturday 17:00 - 21:00"
+  ],
+  "email": "info@monteforte.co.uk",
+  "description": "Established in 2017 as a street food truck and having set up a pizzeria in Reigate, we are best know for our Neapolitan Pizza, chewy and slightly charred, like those made in Napoli. We offer a safe collection service and a 4 mile delivery radius for deliveries."
+}
