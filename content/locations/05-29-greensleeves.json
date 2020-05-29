@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Doorstep drop-offs available.",
+  "name": "Greensleeves",
+  "phone": "01737241005",
+  "address": "Lesbourne Road, RH2 7JS",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590758387/use-greensleeves_bmrcjd.jpg",
+  "tags": [
+    "Flowers"
+  ],
+  "website": "https://www.greensleevesonline.co.uk/",
+  "deliveryHours": [
+    "Monday 09:00 - 16:00",
+    "Tuesday 09:00 - 16:00",
+    "Wednesday 09:00 - 16:00",
+    "Thursday 09:00 - 16:00",
+    "Friday 09:00 - 16:00",
+    "Saturday 09:00 - 16:00"
+  ],
+  "email": "flowrs@greensleevesonline.co.uk",
+  "description": "Florist for gift bouquets and  funeral arrangements."
+}
