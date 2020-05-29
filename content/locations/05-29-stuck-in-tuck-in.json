@@ -1,0 +1,20 @@
+{
+  "safetyTips": "Time slots and contact free delivery.",
+  "name": "Stuck In, Tuck In",
+  "phone": "07877055142",
+  "address": "Reigate",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590761727/stuck-in-tuck-in_g93cax.jpg",
+  "tags": [
+    "Food"
+  ],
+  "website": "https://stuckintuckin.co.uk",
+  "deliveryHours": [
+    "Tuesday 12:30 - 16:00",
+    "Wednesday 12:30 - 16:00",
+    "Thursday 12:30 - 16:00",
+    "Friday 12:30 - 16:00",
+    "Saturday 12:30 - 16:00"
+  ],
+  "email": "lee@stuckintuckin.co.uk",
+  "description": "Comfort food, salads and fresh food."
+}
