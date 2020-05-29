@@ -1,0 +1,22 @@
+{
+  "safetyTips": "I offer contactless delivery and Level 2 Food and Hygiene Safety certified.",
+  "name": "Bee's Bakes",
+  "phone": "07712504077",
+  "address": "Horley",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590760182/use-bees-bakes_bvuarh.jpg",
+  "tags": [
+    "Baked goods"
+  ],
+  "website": "https://www.facebook.com/beeesbakes/",
+  "deliveryHours": [
+    "Monday 08:30 - 20:30",
+    "Tuesday 08:30 - 20:30",
+    "Wednesday 08:30 - 20:30",
+    "Thursday 08:30 - 20:30",
+    "Friday 08:30 - 20:30",
+    "Saturday 08:30 - 20:30",
+    "Sunday 08:30 - 20:30"
+  ],
+  "email": "bees-bakes@outlook.com",
+  "description": "The bee’s knees of baking - I offer a wide range of products from celebration cakes to brownies to afternoon tea boxes. My business started as a hobby and has blossomed into something so beautiful and enjoyable. Message me with any enquires."
+}
