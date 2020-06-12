@@ -1,0 +1,20 @@
+{
+  "name": "Sweetly Delicious",
+  "description": "Delivering cones, bags, boxes and kebabs! I provide sweetie filled cones, boxes and bags for all occasions, themes and budgets. Ideal gifts for someone with a sweet tooth!",
+  "tags": [
+    "Gifts"
+  ],
+  "address": "RH2 8LH",
+  "email": "helen@sweetlydelicious.co.uk",
+  "safetyTips": "All goods stored in airtight containers, mask and gloves worn during production, all areas sanitised. Contactless courier deliveries - free local (Reigate) delivery. All surfaces are sanitised prior to production. I wear mask and gloves whilst handling sweets. Contactless collection and courier deliveries.",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1591952511/use-sweetlydelicious_sbmhkr.jpg"
+}
