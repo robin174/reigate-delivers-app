@@ -1,0 +1,32 @@
+{
+  "safetyTips": "We organise pre-arranged pickup times to ensure there are no queues when you arrive. I will place your order on a table outside and step away for you to pick it up. We will provide bank account details for payment so no cash is handled. ",
+  "name": "Tony Tobin To Go",
+  "phone": "07709689884",
+  "address": "Reigate Heath Golf Club, Flanchford Rd, Reigate RH2 8QR",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1593161449/use-tony-tobin_w6xh8p.jpg",
+  "tags": [
+    "Food",
+    "Restaurant",
+    "Meat",
+    "Pizza",
+    "Fish & Chips",
+    "Cheese",
+    "Burgers",
+    "Bread",
+    "Cakes",
+    "Baked Goods",
+    "Organic",
+    "Vegan",
+    "Salad",
+    "BBQ"
+  ],
+  "website": "https://www.tonytobin.com",
+  "deliveryHours": [
+    "Thursday 18:30 - 20:30",
+    "Friday 18:30 - 20:30",
+    "Saturday 18:30 - 20:30",
+    "Sunday 18:30 - 20:30"
+  ],
+  "email": "info@totoevents.co.uk",
+  "description": "A range of delicious restaurant quality takeaways for collection. If you fancy a special meal with your partner or maybe a BBQ in the sun, you can see all our menus on our website. For bespoke orders or allergies, please give me a ring and we can discuss."
+}
