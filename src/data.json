@@ -96,10 +96,10 @@
     "id": "04-17-underwood-meat-company"
   },
   {
-    "safetyTips": "All staff trained in food handling and are taking all recommended safety precautions. Contact free delivery, drivers wear masks and gloves and drop on doorstep. Only card accepted. No visitors to office.",
+    "safetyTips": "Given the current situation, please rest assured that all staff, including drivers will take recommended precautions when handling your order.",
     "name": "Upstream Seafoods",
     "phone": "02086671251",
-    "address": "Horatius Way, Croydon CR0 4RU",
+    "address": "Unit 5-7 Horatius Way, Croydon CR0 4RU",
     "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587143481/upstream-food_eh5ptr.jpg",
     "tags": [
       "Fish",
@@ -107,13 +107,85 @@
     ],
     "website": "https://www.upstreamseafoods.com/",
     "deliveryHours": [
-      "Tuesday 08:30 - 14:00",
-      "Thursday 08:30 - 14:00",
-      "Friday 08:30 - 14:00"
+      "Tuesday 08:00 - 16:00",
+      "Thursday 08:00 - 16:00",
+      "Friday 08:00 - 16:00"
     ],
     "email": "orders@upstreamseafoods.com",
-    "description": "Fish and seafood - both fresh and frozen.",
+    "description": "Fish wholesalers to restaurants hotels, caterers and now delivering to private addresses.",
     "id": "04-17-upstream-seafoods"
+  },
+  {
+    "safetyTips": "No contact delivery. We ring your doorbell/knock your knocker to let you know the delivery has arrived.",
+    "name": "Chalk Hills Bakery",
+    "address": "75 Bell Street, Reigate RH2 7AN",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403080/chalk-hill-bakery_t5x1bs.jpg",
+    "tags": [
+      "Bread",
+      "Dairy",
+      "Beer",
+      "Cakes",
+      "pastries"
+    ],
+    "website": "https://goodeats.io/CHB",
+    "deliveryHours": [
+      "Monday 09:00 - 12:00",
+      "Tuesday 09:00 - 12:00",
+      "Wednesday 09:00 - 12:00",
+      "Thursday 09:00 - 12:00",
+      "Friday 09:00 - 12:00"
+    ],
+    "email": "sourdough@chalkhillsbakery.com",
+    "description": "We're an artisan bakery supplying proper bread, pastries and cakes to Reigate, Redhill, Horley and areas in between.",
+    "id": "04-20-chalk-hills-bakery"
+  },
+  {
+    "safetyTips": "Contactless free delivery within 15 miles of Redhill.",
+    "name": "Coppertop Candles",
+    "phone": "07717001292",
+    "address": "29 Redstone Park, Redhill RH1 4AS ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587402824/coppertop_zd4hoq.jpg",
+    "tags": [
+      "Homewares",
+      "Gifts",
+      "Vegan",
+      "Candles"
+    ],
+    "website": "http://www.coppertopcandles.com/",
+    "deliveryHours": [
+      "Monday - various times",
+      "Tuesday - various times",
+      "Wednesday - various times",
+      "Thursday - various times",
+      "Friday - various times"
+    ],
+    "email": "ceri@coppertopcandles.com",
+    "description": "Natural, vegan handmade aromatherapy candles, room diffusers & gift-sets using essential oils.",
+    "id": "04-20-coppertop-candles"
+  },
+  {
+    "safetyTips": "All social distancing guidelines observed when delivering. Will drop knock and leave!",
+    "name": "Crumbs Brewing",
+    "phone": "07801045864",
+    "address": "Cockshot Rd, Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403487/crumbs-brewing_rit4jn.jpg",
+    "tags": [
+      "Beer",
+      "Gifts",
+      "Zero Waste"
+    ],
+    "website": "https://www.crumbsbrewing.co.uk/shop/",
+    "deliveryHours": [
+      "Monday 10:00 - 19:00",
+      "Tuesday 10:00 - 19:00",
+      "Wednesday 10:00 - 19:00",
+      "Thursday 10:00 - 19:00",
+      "Friday 10:00 - 19:00",
+      "Saturday 10:00 - 19:00"
+    ],
+    "email": "hello@crumbsbrewing.co.uk",
+    "description": "We make beer using unsold loaves from Chalk Hills Bakery in Reigate. We offer free delivery of all our range, either as cases or smaller gift packs: Sourdough Pale Ale 4.2%, Bloomin’ Amber Lager 4.8%, Rye Ruby Ale 5.0%. We also deliver nationally by courier.",
+    "id": "04-20-crumbs-brewing"
   },
   {
     "name": "Cullenders Parkside",
@@ -121,10 +193,12 @@
     "tags": [
       "Food",
       "Restaurant",
-      "Cheese"
+      "Cheese",
+      "Vegan",
+      "Meat"
     ],
     "address": "73 Bell Street, Reigate RH2 7AN",
-    "website": "www.cullenders.com",
+    "website": "http://www.cullenders.com",
     "email": "marc@cullenders.com",
     "safetyTips": "Food is packaged up, delivered and left on your doorstep.",
     "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377543/cullenders_swphno.jpg",
@@ -135,7 +209,7 @@
     "name": "Fresh Connect",
     "phone": "02077204126",
     "address": "Chipstead Lane, Coulsdon CR5 ",
-    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587376279/freshconnect_jisrug.jpg",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403213/fresh-connect-new-2_cegimb.jpg",
     "tags": [
       "Bread",
       "Food",
@@ -144,7 +218,7 @@
       "Meat",
       "Cheese"
     ],
-    "website": "www.freshconnectuk.com",
+    "website": "https://freshconnectuk.com/",
     "deliveryHours": [
       "Monday 06:00 - 16:00",
       "Tuesday 06:00 - 16:00",
@@ -163,9 +237,13 @@
     "address": "Silent Pool, Shere Road, Albury GU5 9BW ",
     "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587377319/mandira-kitchen_aogmm0.jpg",
     "tags": [
-      "Food"
+      "Food",
+      "Frozen Meals",
+      "Gluten-free",
+      "Dairy-free",
+      "Vegan"
     ],
-    "website": "www.mandiraskitchen.com",
+    "website": "https://mandiraskitchen.com",
     "deliveryHours": [
       "Tuesday 10:00 - 17:00",
       "Wednesday 10:00 - 17:00",
@@ -175,6 +253,27 @@
     "email": "enquiries@mandiraskitchen.com",
     "description": "Award-winning Indian freezer meals. Handmade in small batches using fresh produce and no additives. Gluten free with dairy free and vegan options. Ready from frozen in 4 minutes. UK wide delivery and no contact click-and-collect.",
     "id": "04-20-mandira’s-kitchen"
+  },
+  {
+    "safetyTips": "Enhanced cleaning regimes, non-contact delivery (to front door or garage), drivers wear face masks and gloves.",
+    "name": "RDO Kitchens & Appliances",
+    "phone": "01737240403",
+    "address": "RDO Kitchen Appliances Bancroft Road, Reigate RH2 7RP",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587403818/rdo-warehouse_ggxvtq.jpg",
+    "tags": [
+      "Homewares"
+    ],
+    "website": "https://www.rdo.co.uk/",
+    "deliveryHours": [
+      "Monday 08:30 - 16:30",
+      "Tuesday 08:30 - 16:30",
+      "Wednesday 08:30 - 16:30",
+      "Thursday 08:30 - 16:30",
+      "Friday 08:30 - 16:30"
+    ],
+    "email": "sales@rdo.co.uk",
+    "description": "RDO Kitchens & Appliances is a major online appliance retailer and bespoke kitchen designer based in Reigate, Surrey. At RDO, we’re passionate about delivering our customers the best possible shopping experience, even during lockdown. We’re still offering free non-contact delivery and the best possible advice and service when it comes to kitchens and appliances. Thousands of appliances are available for non-contact click&collect from our 16,000 square foot warehouse in Salfords, Surrey.",
+    "id": "04-20-rdo-kitchens-appliances"
   },
   {
     "safetyTips": "Virtual appointments to comply with social distancing rules, and sealed products home delivered.",
@@ -212,7 +311,7 @@
       "Ice Cream",
       "Restaurant"
     ],
-    "website": "www.spaghettitree.co.uk",
+    "website": "https://www.spaghettitree.co.uk/",
     "deliveryHours": [
       "Monday 12:00 - 15:00, 18:00 - 22:00",
       "Tuesday 12:00 - 15:00, 18:00 - 22:00",
@@ -234,7 +333,8 @@
     "tags": [
       "homewares",
       "garden",
-      "plants"
+      "plants",
+      "Flowers"
     ],
     "website": "https://www.squiresgardencentres.co.uk/",
     "deliveryHours": [
@@ -248,5 +348,1219 @@
     ],
     "description": "Plants & garden accessories.",
     "id": "04-20-squires-garden-centre"
+  },
+  {
+    "safetyTips": "PayPal - therefore no cash on delivery. Knock and produce is left on the doorstep - no face-to-face contact necessary!",
+    "name": "P&I Fruits Ltd",
+    "address": "37 The Street, Ashtead KT21 1AA",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587461746/pandi-fruits_j3dirk.jpg",
+    "tags": [
+      "Veg Box",
+      "Veg",
+      "Fruit",
+      "Salad"
+    ],
+    "website": "https://www.pifruits.co.uk/shop",
+    "deliveryHours": [
+      "Monday 08:30 - 14:30",
+      "Tuesday 08:30 - 14:30",
+      "Wednesday 08:30 - 14:30",
+      "Thursday 08:30 - 14:30",
+      "Friday 08:30 - 14:30",
+      "Saturday 08:30 - 14:30"
+    ],
+    "email": "ashtead-fresh-produce-boxes@outlook.com",
+    "description": "Fresh fruit and veg wholesaler in New Covent Garden Market - usually supplying the hospitality trade around London. Now using its resources to ensure the local areas can get the fruit, veg, salad, berries & more that they need.",
+    "id": "04-21-p-i-fruits-ltd"
+  },
+  {
+    "safetyTips": "Following all government guidelines. Keeping 2m distance at all times. Customers can pay through Pay Pal or contactless to save any contact. Also using disposable gloves when making delivery - washing and sanitising hands regularly.  ",
+    "name": "Surrey & Sussex Fresh Fruit & Veg Supplies",
+    "phone": "07947476963",
+    "address": "Lingfield, Surrey",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587458950/fresh-veg-lingfield_cbrsem.jpg",
+    "tags": [
+      "Fruit",
+      "Veg",
+      "Veg Box"
+    ],
+    "website": "https://www.facebook.com/Surrey-Sussex-Fresh-Fruit-Veg-Supplies-100547501626483/",
+    "deliveryHours": [
+      "Monday 09:00 - 18:00",
+      "Tuesday 09:00 - 18:00",
+      "Wednesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00",
+      "Friday 09:00 - 18:00",
+      "Saturday 09:00 - 18:00",
+      "Sunday 09:00 - 18:00"
+    ],
+    "description": "We supply the freshest fruit & veg with the highest of quality to help those who are in isolation, the vulnerable and to help those stay home & stay safe. We offer a range of mixed fruit & veg boxes.",
+    "id": "04-21-surrey-sussex-fresh-fruit-veg-supplies"
+  },
+  {
+    "safetyTips": "All our staff are trained fully in food hygiene regulations, COVID health and safety for key workers, all staff carry hand sanitiser and disposable safety gloves.",
+    "name": "The Charlwood Delivery",
+    "phone": "01293862203",
+    "address": "The Charlwood, 12 The Street, Charlwood RH6 0BE",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587459748/thecharlwood_l7odau.jpg",
+    "tags": [
+      "Meat",
+      "Fruit",
+      "Veg",
+      "Restaurant",
+      "Dairy",
+      "Fish",
+      "Beer",
+      "Wine",
+      "Cheese",
+      "Fish",
+      "Pub"
+    ],
+    "website": "https://thecharlwooddelivery.co.uk/",
+    "deliveryHours": [
+      "Monday 09:00 - 22:00",
+      "Tuesday 09:00 - 22:00",
+      "Wednesday 09:00 - 22:00",
+      "Thursday 09:00 - 22:00",
+      "Friday 09:00 - 22:00",
+      "Saturday 09:00 - 22:00",
+      "Sunday 09:00 - 22:00"
+    ],
+    "email": "enquiries@thecharlwood.co.uk",
+    "description": "Normally an amazing restaurant. On the 20 March we became an amazing food delivery operations - supplying fresh quality food and groceries (meats, veg, fruit, dairy, provisions) and restaurant quality hot takeaway food and drinks.",
+    "id": "04-21-the-charlwood-delivery"
+  },
+  {
+    "safetyTips": "No contact delivery and one person at time in the shop.",
+    "name": "Duke's Yard Café, Deli & Pizzeria",
+    "phone": "07540790888",
+    "address": "The Station Pub, RH1 5RU",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587549101/thestation-delivery_k8jqi1.jpg",
+    "tags": [
+      "Food",
+      "Bread",
+      "Cheese",
+      "Dairy",
+      "Fish & Chips",
+      "Coffee",
+      "Cider",
+      "Beer",
+      "Wine",
+      "Organic",
+      "Vegan",
+      "Gluten-free",
+      "Thai",
+      "Chinese",
+      "Pizza",
+      "Pub"
+    ],
+    "website": "thestationpubsouthnutfield.co.uk",
+    "deliveryHours": [
+      "Wednesday 10:00 - 21:00",
+      "Thursday 10:00 - 21:00",
+      "Friday 10:00 - 21:00",
+      "Saturday 10:00 - 21:00",
+      "Sunday 10:00 - 21:00"
+    ],
+    "email": "nettlesjoseph@yahoo.co.uk",
+    "description": "We are known as a pub, we are now a deli/shop and takeaway delivery service. We deliver personal food boxes and we provide meals including Thai, Chinese, wood-fired pizzas and British cuisine. We sell fresh fruit and veg, and other food essentials. We stock gluten-free, vegan and dairy alternatives.",
+    "id": "04-22-dukes-yard-café-deli-pizzeria"
+  },
+  {
+    "safetyTips": "Safe social distancing at 2m.",
+    "name": "Munchies Grill",
+    "phone": "01737668607",
+    "address": "2 The Facade, Holmesdale Road",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587548403/use-munchies-grill_jet8gd.jpg",
+    "tags": [
+      "Coffee",
+      "Kebabs",
+      "Burgers",
+      "Chips"
+    ],
+    "website": "https://www.facebook.com/munchiescafe.reigate.3",
+    "deliveryHours": [
+      "Monday 12:00 - 21:00",
+      "Tuesday 12:00 - 21:00",
+      "Wednesday 12:00 - 21:00",
+      "Thursday 12:00 - 21:00",
+      "Friday 12:00 - 21:00",
+      "Saturday 12:00 - 21:00"
+    ],
+    "email": "munevvercaglar@outlook.com",
+    "description": "Breakfast and kebabs. Available on Just Eat.",
+    "id": "04-22-munchies-grill"
+  },
+  {
+    "safetyTips": "Kerbside delivery, non-contact, payment over the phone only.",
+    "name": "Priory Farm Nursery",
+    "address": "Sandy Lane, South Nutfield, Redhill RH1 4EJ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587549803/priory-farm-nursery_wmqkc6.jpg",
+    "tags": [
+      "Garden",
+      "Plants",
+      "Compost",
+      "Flowers"
+    ],
+    "website": "https://www.facebook.com/prioryfarmnursery/",
+    "deliveryHours": [
+      "Monday 09:00 - 17:30",
+      "Tuesday 09:00 - 17:30",
+      "Wednesday 09:00 - 17:30",
+      "Thursday 09:00 - 17:30",
+      "Friday 09:00 - 17:30"
+    ],
+    "email": "plants@prioryfarmnursery.co.uk",
+    "description": "Home grown plants, garden furniture, BBQ and compost.",
+    "id": "04-22-priory-farm-nursery"
+  },
+  {
+    "safetyTips": "Each customer has an allocated time slot where they collect the food from an isolated table to ensure no contact with anyone.  ",
+    "name": "Two Many Cooks",
+    "phone": "01737841624",
+    "address": "Brockham Green",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587550391/too-many-cooks_rlx9ye.jpg",
+    "tags": [
+      "Food",
+      "Coffee",
+      "Bread",
+      "Brownies",
+      "Veg Box",
+      "Fruit",
+      "Veg",
+      "Frozen Meals"
+    ],
+    "website": "https://twomanycooks.com/two-many-cooks-takeaway-delivery-service/",
+    "deliveryHours": [
+      "Wednesday For collection",
+      "Thursday For delivery",
+      "Friday For collection"
+    ],
+    "email": "office@twomanycooks.com",
+    "description": "Normally catering private parties and events, now doing frozen ready meals, fresh fruit and veg boxes, pantry boxes, lunch boxes with our wonderful tarts and sausage rolls.",
+    "id": "04-22-two-many-cooks"
+  },
+  {
+    "safetyTips": "We have designated time slots for you to collect your takeaway so there is only ever one customer picking up at any one time. At your designated time slot your takeaway will be placed on a table outside the front door. On the table will be some hand gel which you are welcome to use before removing you bag, then just grab and go.",
+    "name": "Skimmington Castle",
+    "phone": "01737243100",
+    "address": "Bonnys Road, Reigate RH2 8RL ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587638840/use-skimmington-castle_di6v98.jpg",
+    "tags": [
+      "Restaurant",
+      "Food",
+      "Fish & Chips",
+      "Chips",
+      "Chicken",
+      "Burgers",
+      "Meat",
+      "Fish",
+      "Pub"
+    ],
+    "website": "https://skimmingtoncastle.co.uk/",
+    "deliveryHours": [
+      "Wednesday 16:00 - 20:00",
+      "Thursday 16:00 - 20:00",
+      "Friday 16:00 - 20:00",
+      "Saturday 16:00 - 20:00",
+      "Sunday 12:00 - 17:00"
+    ],
+    "email": "info@skimmingtoncastle.co.uk",
+    "description": "Our new drive-thru service offers our famous fish pies, delicious home cooked roasts and traditional pub classics. Collection only.",
+    "id": "04-23-skimmington-castle"
+  },
+  {
+    "safetyTips": "Contactless Collection. If delivered, social distancing guidelines are observed.",
+    "name": "The Fresh Coffee Company ",
+    "phone": "07752747515",
+    "address": "St Marys Rd, Reigate RH2 7JH",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587648703/use-fresh-coffee-v2_wvo6ya.jpg",
+    "tags": [
+      "Coffee",
+      "Tea",
+      "Organic"
+    ],
+    "website": "https://www.thefreshcoffeecompany.com/",
+    "deliveryHours": [
+      "Monday 08:00 - 20:00",
+      "Tuesday 08:00 - 20:00",
+      "Wednesday 08:00 - 20:00",
+      "Thursday 08:00 - 20:00",
+      "Friday 08:00 - 20:00"
+    ],
+    "email": "orders@thefreshcoffeecompany.com",
+    "description": "We offer a hand-picked selection of premium coffees, artisan hand-blended teas and award winning hot chocolate.",
+    "id": "04-23-the-fresh-coffee-company"
+  },
+  {
+    "safetyTips": "Delivery drivers wearing face masks and gloves.",
+    "name": "The Pilot's Hub",
+    "phone": "02086529027",
+    "address": "Hangar 9, Redhill Aerodrome, Kingsmill Lane, Redhill RH1 5JY",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587638009/pilots-hub_gpbaal.jpg",
+    "tags": [
+      "Food",
+      "Restaurant",
+      "Veg Box",
+      "Salad",
+      "Fruit",
+      "Gluten-free",
+      "Cakes",
+      "Bread",
+      "Meat",
+      "Fish",
+      "Dairy"
+    ],
+    "website": "https://www.pilotshub.co.uk/",
+    "deliveryHours": [
+      "Monday 10:00 - 18:00",
+      "Tuesday 10:00 - 18:00",
+      "Wednesday 10:00 - 18:00",
+      "Thursday 10:00 - 18:00",
+      "Friday 10:00 - 18:00",
+      "Saturday 10:00 - 18:00",
+      "Sunday 10:00 - 18:00"
+    ],
+    "email": "pioltshub@gmail.com",
+    "description": "We are a locally renowned brasserie and restaurant based at Redhill Aerodrome popular for our freshly cooked breakfast and lunches and supporting the emergency services based at the airfield  We source excellent quality vegetables, dairy produce, fruit, meat, bread, and many extras that we provide with no-contact, free of charge delivery. Collection is available too, and we have a selection of ready-prepared dishes and ready-to-eat food to whet your appetite ! We are offering the opportunity to support the the NHS at East Surrey Hospital with our NHS veg box scheme.",
+    "id": "04-23-the-pilots-hub"
+  },
+  {
+    "safetyTips": "Our wholesaler is working to government guildelines and delivering to an empty shop. We are closed to the public and making contactless deliveries only. Orders taken via telephone, website or email.",
+    "name": "Willows of Reigate",
+    "phone": "01737248484",
+    "address": "77a High Street, Reigate RH2 9AH",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587638396/use-willows_f2eirf.jpg",
+    "tags": [
+      "Flowers"
+    ],
+    "website": "http://www.willowsreigate.co.uk/",
+    "deliveryHours": [
+      "Monday 10:00 - 15:00",
+      "Tuesday 10:00 - 15:00",
+      "Wednesday 10:00 - 15:00",
+      "Thursday 10:00 - 15:00",
+      "Friday 10:00 - 15:00"
+    ],
+    "email": "flowers@willowsreigate.co.uk",
+    "description": "We are currently making contactless deliveries only of bouquets and plants and providing funeral tributes by special request.",
+    "id": "04-23-willows-of-reigate"
+  },
+  {
+    "safetyTips": "We only allow one person into the restaurant at all times and when delivering we offer a hands-free delivery service if you wish. All our staff wear gloves and wash their hands every 20 minutes as advised by the government. We also use hand sanitiser and have a sanitiser spray that is used on top of our daily cleaning routine.",
+    "name": "Eighty Ate Burger",
+    "phone": "01737233888",
+    "address": "88 High Street, Reigate RH2 0AY",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587985672/use-eightyate_qhaaqn.jpg",
+    "tags": [
+      "Burgers",
+      "Food",
+      "Chips",
+      "Restaurant",
+      "Dairy-free",
+      "Meat",
+      "Beer",
+      "Chicken",
+      "Cider",
+      "Wine",
+      "Gluten-free"
+    ],
+    "website": "https://www.eightyateburgerat88.co.uk",
+    "deliveryHours": [
+      "Tuesday 17:00 - 21:00",
+      "Wednesday 17:00 - 21:00",
+      "Thursday 17:00 - 21:00",
+      "Friday 17:00 - 21:00",
+      "Saturday 17:00 - 21:00",
+      "Sunday 17:00 - 20:00"
+    ],
+    "email": "eightyateburgers@hotmail.com",
+    "description": "Our menu features an array of juicy, succulent meats that are sourced from a local butcher here in Reigate. As a burger lover, we encourage you to come along and try our eccentric burgers! We are currently open for takeaway and delivery service. We offer a delivery service within a 5 mile radius of the restaurant, alongside this we are also on Deliveroo and they offer a 3 mile radius from the restaurant.",
+    "id": "04-27-eighty-ate-burger"
+  },
+  {
+    "safetyTips": "Standing two metres apart, leave at the door, using gloves, wiping clean.",
+    "name": "Flower Farm",
+    "phone": "01883742288",
+    "address": "Flower Farm, Oxted Road, Godstone RH9 8DE",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587984668/flower-farm_tnffjv.jpg",
+    "tags": [
+      "Food",
+      "Dairy",
+      "Meat",
+      "Beer",
+      "Cider",
+      "Wine",
+      "Baked Goods",
+      "Bread",
+      "Brownies",
+      "Cakes",
+      "Veg Box",
+      "Veg",
+      "Salad",
+      "Fruit",
+      "Eggs"
+    ],
+    "website": "https://flower-farm.co.uk",
+    "deliveryHours": [
+      "Monday 11:00 - 18:00",
+      "Tuesday 11:00 - 18:00",
+      "Wednesday 11:00 - 18:00",
+      "Thursday 11:00 - 18:00",
+      "Friday 11:00 - 18:00",
+      "Saturday 11:00 - 18:00"
+    ],
+    "email": "shop@flower-farm.co.uk",
+    "description": "Offering a wide range of fresh farm produce, home grown and locally sourced vegetables, fruit, meat and eggs reared on the farm, as well as a wide range of bespoke items from artisan nut butters and olive oil to pasta and and chilli jams. Plus a selection of beer and ales, brewed on the farm, wine and cider from a local vineyard. With 48 hour home delivery and collection.",
+    "id": "04-27-flower-farm"
+  },
+  {
+    "safetyTips": "We are following government guidelines strictly with social distancing. We are only working externally so will not come inside properties. We are wearing gloves at all times and carrying hand sanitiser following strict hand washing routines.",
+    "name": "SuperClean",
+    "phone": "07368590868",
+    "address": "Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1587985081/super-clean_lf3rx9.jpg",
+    "tags": [
+      "Home & Garden"
+    ],
+    "website": "https://www.superclean-gutters.co.uk",
+    "deliveryHours": [
+      "Monday 09:00 - 18:00",
+      "Tuesday 09:00 - 18:00",
+      "Wednesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00",
+      "Friday 09:00 - 18:00",
+      "Saturday 09:00 - 18:00"
+    ],
+    "email": "info@superclean-gutters.co.uk",
+    "description": "Very friendly, professional and 5/5 star gutter cleaning service. We provide a gutter vacuum cleaning service to unblock and clear gutters to allow them to function properly, directing rain water to the downpipes and away from your home. We also provide a gutter cleaning service to wash and clean dirty gutters including the fascia and soffits to get them sparkling clean and totally transform the appearance of your home. ",
+    "id": "04-27-superclean"
+  },
+  {
+    "safetyTips": "All our staff wear gloves and use hand sanitiser and wash their hand every 20 minutes as per government guidelines. We only allow one person in the restaurant at any one time for collections. We offer a hands-free delivery service for our customers if they wish.",
+    "name": "Regional Thai Taste",
+    "phone": "01737244818",
+    "address": "38a High Street, Reigate RH2 9AT",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588090415/use-taste-thai_fbqutg.jpg",
+    "tags": [
+      "Food",
+      "Restaurant",
+      "Thai",
+      "Chicken",
+      "Fish",
+      "Meat",
+      "Dairy-free",
+      "Beer",
+      "Cider",
+      "Wine",
+      "Vegan"
+    ],
+    "website": "http://www.regionalthaitaste.co.uk",
+    "deliveryHours": [
+      "Monday 17:00 - 21:00",
+      "Tuesday 17:00 - 21:00",
+      "Wednesday 17:00 - 21:00",
+      "Thursday 17:00 - 21:00",
+      "Friday 17:00 - 21:00",
+      "Saturday 17:00 - 21:00"
+    ],
+    "email": "regionalthaireigate@yahoo.com",
+    "description": "We are currently open for a takeaway and delivery service. We have delivery drivers working from our restaurant and we off a delivery of 5 mile radius from the restaurant, alongside this we are also on Deliveroo and they offer a 3 mile radius from the restaurant.",
+    "id": "04-28-regional-thai-taste"
+  },
+  {
+    "safetyTips": "Pavement collection or delivery by bicycle or on foot. Office is spray-cleaned frequently with isopropyl alcohol.",
+    "name": "All Your Business Needs",
+    "phone": "01737226677",
+    "address": "22 Holmesdale Road, Reigate RH2 0BQ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588150775/use-aybn_s8tdgy.jpg",
+    "tags": [
+      "Stationery",
+      "Printing"
+    ],
+    "website": "https://www.aybn.co.uk/",
+    "deliveryHours": [
+      "Monday 12:00 - 15:00",
+      "Tuesday 12:00 - 15:00",
+      "Wednesday 12:00 - 15:00",
+      "Thursday 12:00 - 15:00",
+      "Friday 12:00 - 15:00"
+    ],
+    "email": "info@aybn.co.uk",
+    "description": "Still printing Locally - collection or delivery. A6 to A1 on a range of papers. Documents, photographs, posters, banners and plans. Stationery including 80gsm bond paper. We also offer web services and some help with email and communications software. Although our over the counter service and shopfront is closed, we are able to offer pavement collection. Alternatively we can offer delivery by bicycle or on foot for 20% of the order value (£2.50 minimum).",
+    "id": "04-29-all-your-business-needs"
+  },
+  {
+    "safetyTips": "Our delivery team are taking every precaution they possibly can to ensure the safety of our customers. That includes using appropriate PPE and maintaining a safe distance when making deliveries.",
+    "name": "Hofmeister Brewing Company",
+    "phone": "01293310017",
+    "address": "285-293 High Street, Dorking RH4 1RL",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588151692/use-hofmeister_onfsjc.jpg",
+    "tags": [
+      "Beer"
+    ],
+    "website": "https://www.hofmeister.co.uk/",
+    "deliveryHours": [
+      "Thursday 09:00 - 17:00"
+    ],
+    "email": "orders@hofmeister.co.uk",
+    "description": "Hofmeister Helles is an authentic imported Bavarian lager. Made using just mineral water, barley and hops, Hofmeister beer is lagered slower at zero degrees, for a fresh, crisp, Helles lager. Being local, we're opening up free delivery of our cases of 24 x 330ml bottles to customers in Reigate and within a 15 mile radius. Each case is £39.99 delivered to your door - simply email or call the team to order and we'll do the rest.",
+    "id": "04-29-hofmeister-brewing-company"
+  },
+  {
+    "safetyTips": "Online ordering, contactless pay, products wiped with alcohol.",
+    "name": "Pilgrim Brewery",
+    "phone": "01737222651",
+    "address": "11 West Street, Reigate RH2 8JX",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588152125/use-pilgrim-v2_qw9z6g.jpg",
+    "tags": [
+      "Beer",
+      "Cider",
+      "Gifts",
+      "Clothing"
+    ],
+    "website": "https://www.pilgrim.co.uk",
+    "deliveryHours": [
+      "Monday 10:00 - 17:00",
+      "Tuesday 10:00 - 17:00",
+      "Wednesday 10:00 - 17:00",
+      "Thursday 10:00 - 17:00",
+      "Friday 10:00 - 17:00",
+      "Saturday 10:00 - 17:00"
+    ],
+    "email": "info@pilgrim.co.uk",
+    "description": "Craft Brewery based in Reigate since 1984 producing traditional ales, modern beers and lagers.",
+    "id": "04-29-pilgrim-brewery"
+  },
+  {
+    "safetyTips": "Wearing face-mask and sanitising before and after each delivery. Orders are delivered in paper carrier bags that have handles to ensure minimal surface contact. Delivery is left, doorbell rang or door knocked, then I step back to the pavement to wait for customer to acknowledge me. ",
+    "name": "Redhill Confetti",
+    "phone": "07798551120",
+    "address": "Keats Avenue, Redhill RH1 1AG",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588146839/use-redhill-confetti_csacst.jpg",
+    "tags": [
+      "Gifts",
+      "Homewares"
+    ],
+    "website": "https://www.etsy.com/uk/shop/Redhillconfetti",
+    "deliveryHours": [
+      "Tuesday 15:00 - 18:00",
+      "Friday 15:00 - 18:00"
+    ],
+    "email": "redhillconfetti@gmail.com",
+    "description": "Handmade crafts and make-at-home kits to entertain kids and adults alike.",
+    "id": "04-29-redhill-confetti"
+  },
+  {
+    "safetyTips": "Locksmith’s are all CRB checked, carry PPE and disinfectant wipes for before and after work.",
+    "name": "Southern Lock & Safe Co. Ltd",
+    "phone": "01737242414",
+    "address": "Pool House, Bancroft Road, Reigate RH2 7RP",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588151372/use-southern-lock_iqqsex.jpg",
+    "tags": [
+      "Home & Garden"
+    ],
+    "website": "https://www.southernlockandsafe.co.uk",
+    "deliveryHours": [
+      "Monday 08:00 - 18:00",
+      "Tuesday 08:00 - 18:00",
+      "Wednesday 08:00 - 18:00",
+      "Thursday 08:00 - 18:00",
+      "Friday 08:00 - 18:00",
+      "Saturday 08:00 - 18:00"
+    ],
+    "email": "mail@southernlockandsafe.co.uk",
+    "description": "We are still open by appointment for emergency calls and key cutting at the shop. We will endeavour to do our best to help you and your business in the quickest possible time.",
+    "id": "04-29-southern-lock-safe-co-ltd"
+  },
+  {
+    "safetyTips": "Mask, gloves, social distancing ",
+    "name": "This Wild House",
+    "phone": "07738715254",
+    "address": "Doods Rd, Reigate ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588147294/use-wild-house_syzpwc.jpg",
+    "tags": [
+      "Homewares"
+    ],
+    "website": "https://thiswildhouse.com",
+    "deliveryHours": [
+      "Monday 10:00 - 16:00",
+      "Tuesday 10:00 - 16:00",
+      "Wednesday 10:00 - 16:00",
+      "Thursday 10:00 - 16:00",
+      "Friday 10:00 - 16:00",
+      "Saturday 10:00 - 16:00",
+      "Sunday 10:00 - 16:00"
+    ],
+    "email": "info@thiswildhouse.com",
+    "description": "Homewares & lifestyle store combining a mixture of bohemian living with elegant Scandinavian simplicity. ",
+    "id": "04-29-the-wild-house"
+  },
+  {
+    "safetyTips": "I use a protective mask and gloves when I make and pack your orders, as well as regularly disinfecting my work space. I always keep distance as per government regulations at delivery or collection.",
+    "name": "Red Fox Candle",
+    "address": "Mill Street, Redhill RH1 6PA",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588320124/use-redfox02_a3dhey.jpg",
+    "tags": [
+      "Vegan",
+      "Organic",
+      "Gifts",
+      "Homewares",
+      "Zero Waste",
+      "Candles"
+    ],
+    "website": "https://www.etsy.com/uk/shop/RedFoxCandle",
+    "deliveryHours": [
+      "Friday 11:00 - 19:00",
+      "Saturday 11:00 - 19:00",
+      "Sunday 11:00 - 19:00"
+    ],
+    "email": "redfoxcandle@gmail.com",
+    "description": "Natural vegan candles and tea lights, blended with essential oils. Inspired by nature for your self-care and wellbeing. Red Fox candles can help you combat anxiety, unwind and feel more connected with yourself.",
+    "id": "04-30-red-fox-candle"
+  },
+  {
+    "safetyTips": "All boxes are wrapped in film 24 hours before delivery to allow for easy packaging removal, and hand-washing. ",
+    "name": "Fancy That Cake Company",
+    "phone": "07961987908",
+    "address": "3 Bolsover Grove, Merstham RH1 3NU ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588669182/use-fancythat_p6uhxh.jpg",
+    "tags": [
+      "Cakes",
+      "Baked Goods"
+    ],
+    "website": "https://fancythatcc.co.uk",
+    "deliveryHours": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "email": "fancythatcc@gmail.com",
+    "description": "Cakes, cake pops, graze boxes.",
+    "id": "05-05-fancy-that-cake-company"
+  },
+  {
+    "safetyTips": "Leave delivery outside door, knock/ring doorbell and leave.",
+    "name": "Nourish - Grow, Cook, Enjoy",
+    "address": "Dovers Farm, Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668452/use-nourish_r4zlab.jpg",
+    "tags": [
+      "Food",
+      "Dairy-free",
+      "Baked Goods",
+      "Gluten-free",
+      "Organic",
+      "Vegan"
+    ],
+    "website": "https://nourish-growcookenjoy.com/",
+    "deliveryHours": [
+      "Monday 10:00 - 17:00",
+      "Tuesday 10:00 - 17:00",
+      "Wednesday 10:00 - 17:00",
+      "Thursday 10:00 - 17:00",
+      "Friday 10:00 - 17:00",
+      "Saturday 10:00 - 17:00"
+    ],
+    "email": "kate@nourish-growcookenjoy.com",
+    "description": "Organic, gluten, dairy and refined sugar free nourishing treats. Coconut macaroons and bites, raw slices, cookies and more. Mostly vegan and grain free options.",
+    "id": "05-05-nourish-grow-cook-enjoy"
+  },
+  {
+    "safetyTips": "We are taking an extra level of care to keep our customers safe at all times, we have put in place the 2m distance and if you are coming to collect your takeaway we are ensuring we only have one customer in at a time. If you wish a contact free delivery we will leave your food and drink in the place we have been instructed, payments for this will be made when you order. We understand this is a very difficult time for everybody but we want to keep everyone as safe as possible. ",
+    "name": "The Admiral Inn",
+    "phone": "01737242100",
+    "address": "109A Nutley Lane, Reigate RH2 9EF",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668678/use-admiral_uojbow.jpg",
+    "tags": [
+      "Pizza",
+      "Burgers",
+      "Beer",
+      "Wine",
+      "Chicken",
+      "Chips"
+    ],
+    "website": "https://www.facebook.com/admiralreigate",
+    "deliveryHours": [
+      "Monday 16:00 - 21:00",
+      "Tuesday 16:00 - 21:00",
+      "Wednesday 16:00 - 21:00",
+      "Thursday 16:00 - 21:00",
+      "Friday 16:00 - 21:00",
+      "Saturday 16:00 - 21:00",
+      "Sunday 16:00 - 21:00"
+    ],
+    "description": "The Admiral Inn is a small local pub in Reigate where you can find us on Nutley Lane. We are offering a free home delivery service for pizzas, burgers, beers, wine and a selection of soft drinks.",
+    "id": "05-05-the-admiral-inn"
+  },
+  {
+    "safetyTips": "We will place flowers on the doorstep then knock and step away.",
+    "name": "The Reigate Flower Hut ",
+    "phone": "07779024250",
+    "address": "Castle Drive, Reigate RH2 8DQ ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588669599/use-reigatehut_h3bslb.jpg",
+    "tags": [
+      "Flowers",
+      "Plants",
+      "Compost",
+      "Gifts"
+    ],
+    "website": "https://www.facebook.com/reigateflowerhut/",
+    "deliveryHours": [
+      "Monday 08:00 - 17:00",
+      "Tuesday 08:00 - 17:00",
+      "Wednesday 08:00 - 17:00",
+      "Thursday 08:00 - 17:00",
+      "Friday 08:00 - 17:00",
+      "Saturday 08:00 - 17:00",
+      "Sunday 08:00 - 17:00"
+    ],
+    "email": "info@thereigateflowerhut.co.uk",
+    "description": "Florist, delivery flowers and funeral tributes.",
+    "id": "05-05-the-reigate-flower-hut"
+  },
+  {
+    "safetyTips": "All deliveries will be taken remotely. We will do contactless deliveries and gloves/masks will be worn as needed. ",
+    "name": "Vintage Rose Crockery Hire",
+    "phone": "07517196884",
+    "address": "Greenwell Close, Godstone RH9 8NU",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588668018/use-vintage-rose_mj9bi5.jpg",
+    "tags": [
+      "Baked Goods",
+      "Gift",
+      "Homeware"
+    ],
+    "website": "https://vintagerosecrockery.co.uk",
+    "deliveryHours": [
+      "Monday 10:00 - 16:00",
+      "Tuesday 10:00 - 16:00",
+      "Wednesday 10:00 - 16:00",
+      "Thursday 10:00 - 16:00",
+      "Friday 10:00 - 16:00",
+      "Saturday 10:00 - 16:00"
+    ],
+    "email": "info@vintagerosecrockery.co.uk",
+    "description": "We are a local business supplying gorgeous vintage crockery. If you or a loved one are celebrating a birthday/ anniversary during lockdown and are looking to make it a bit special we will drop off all you need to have a tea party in the comfort of your own home! We have also teamed up with a local cake-maker to offer an afternoon tea package. ",
+    "id": "05-05-vintage-rose-crockery-hire"
+  },
+  {
+    "safetyTips": "One person fulfilling and dispatching orders.",
+    "name": "Houndsley ",
+    "phone": "07834228206",
+    "address": "Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1588863062/use-houndsley_a2fvll.jpg",
+    "tags": [
+      "Pets",
+      "Gifts",
+      "Clothing",
+      "Homewares",
+      "Sports"
+    ],
+    "website": "https://houndsley.co.uk/",
+    "deliveryHours": [
+      "Monday 12:00 - 17:00",
+      "Tuesday 12:00 - 17:00",
+      "Wednesday 12:00 - 17:00",
+      "Thursday 12:00 - 17:00",
+      "Friday 12:00 - 17:00"
+    ],
+    "email": "info@houndsley.co.uk",
+    "description": "Stylish, cleverly designed dog walking bags and accessories.",
+    "id": "05-07-houndsley"
+  },
+  {
+    "safetyTips": "Frequent and effective hand washing with antibacterial hand wash in the kitchen. Frequent use of food safe antibacterial surface cleaner in the kitchen and all food storage and preparation areas. Aprons and kitchen wear frequently laundered on 60 degrees. Frequent changes of kitchen gloves. All order payments taken online through the website. Minimised local deliveries only 2 days per week. Maintaining social distancing rules when delivering. Wearing relevant PPE when making deliveries.",
+    "name": "eat VEGAN kitchen",
+    "phone": "‭07718781860‬",
+    "address": "Hooley, Surrey CR5 3EE",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589201124/eat-vegan-kitchen_wfvznz.jpg",
+    "tags": [
+      "Food",
+      "Vegan"
+    ],
+    "website": "https://www.eatvegan.kitchen",
+    "deliveryHours": [
+      "Tuesday 12:00 - 18:00",
+      "Friday 12:00 - 18:00"
+    ],
+    "email": "enquiries@eatvegan.kitchen",
+    "description": "eat VEGAN kitchen is a newly formed company offering a range of delicious freshly prepared home cooked gourmet vegan dishes delivered straight to your door!",
+    "id": "05-11-eat-vegan-kitchen"
+  },
+  {
+    "safetyTips": "Contact-free payments and free contact-free delivery to Redhill, Reigate & surrounding areas.",
+    "name": "Hook, Yarn & Crochet",
+    "phone": "07534856673",
+    "address": "Woodcrest Walk, Reigate RH2 0JL",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589359616/use-hook-yarn_fqg77x.jpg",
+    "tags": [
+      "Clothing",
+      "Gifts",
+      "Homewares",
+      "Home & Garden"
+    ],
+    "website": "https://www.hookyarncrochet.co.uk/",
+    "deliveryHours": [
+      "Monday 10:00 - 16:00",
+      "Tuesday 10:00 - 16:00",
+      "Wednesday 10:00 - 16:00",
+      "Thursday 10:00 - 16:00",
+      "Friday 10:00 - 16:00",
+      "Saturday 10:00 - 16:00"
+    ],
+    "email": "h-y-c@outlook.com",
+    "description": "I crochet items including baby blankets, toys, homeware and gifts. ",
+    "id": "05-13-hook-yarn-crochet"
+  },
+  {
+    "safetyTips": "One person fulfilling and dispatching orders.",
+    "name": "Popsy & Plum",
+    "address": "Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589360145/use-popsy-plum-v2_uzsllu.jpg",
+    "tags": [
+      "Gifts"
+    ],
+    "website": "https://www.etsy.com/uk/shop/popsyandplum",
+    "deliveryHours": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "email": "popsyandplum@outlook.com",
+    "description": "Award winning greetings card designer. Free delivery to anyone with a RH2 postcode, using discount code: RH2FREEDELIVERY.",
+    "id": "05-13-popsy-plum"
+  },
+  {
+    "safetyTips": "Following government guidelines and hygiene.",
+    "name": "Cook&Bake",
+    "phone": "07711817922",
+    "address": "Evesham Close, Reigate, RH2 9DN",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589799503/use-cook-bake_aefmxe.jpg",
+    "tags": [
+      "Organic",
+      "Flour",
+      "Vegan"
+    ],
+    "website": "https://www.facebook.com/organicnaturalkitchenpantry/",
+    "deliveryHours": [
+      "Monday 10:00 - 19:00",
+      "Tuesday 10:00 - 19:00",
+      "Wednesday 10:00 - 19:00",
+      "Thursday 10:00 - 19:00",
+      "Friday 10:00 - 19:00",
+      "Saturday 10:00 - 19:00",
+      "Sunday 10:00 - 19:00"
+    ],
+    "email": "cookandbakeorganic@outlook.com",
+    "description": "Natural, organic kitchen pantry essentials: stoneground flours, grains, herbal teas. ",
+    "id": "05-18-cook-bake"
+  },
+  {
+    "safetyTips": "I use a courier as I am shielding so the only contact would be the delivery driver.",
+    "name": "Emilia Hunt",
+    "phone": "07972751290",
+    "address": "Woodlands Road, Redhill RH1 6BU",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1589799061/use-emilia-hunt-designs_hcuotv.jpg",
+    "tags": [
+      "Gifts",
+      "Stationery",
+      "Garden",
+      "Home & Garden",
+      "Homewares",
+      "Clothing"
+    ],
+    "website": "https://emiliahunt.com/",
+    "deliveryHours": [
+      "Monday 08:00 - 20:00",
+      "Tuesday 08:00 - 20:00",
+      "Wednesday 08:00 - 20:00",
+      "Thursday 08:00 - 20:00",
+      "Friday 08:00 - 20:00",
+      "Saturday 08:00 - 20:00"
+    ],
+    "email": "https://emiliahunt.com/",
+    "description": "Cotton, velvet and silk products and accessories for yourself, the home or the garden. All of my products are made in England and display my hand drawn designs. ",
+    "id": "05-18-emilia-hunt"
+  },
+  {
+    "safetyTips": "Contactless payment & delivery.",
+    "name": "Grow at the Skim",
+    "phone": "07377449229",
+    "address": "Behind The Skimmington Castle, Reigate Heath, RH2 8RL",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590515309/use-grow-skim_vukrju.jpg",
+    "tags": [
+      "Plants",
+      "Garden",
+      "Home & Garden"
+    ],
+    "website": "https://www.growattheskim.co.uk",
+    "deliveryHours": [
+      "Tuesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00"
+    ],
+    "email": "grow@growattheskim.co.uk ",
+    "description": "Independent, recently set up plant nursery delivering plants (garden and house), hanging baskets and window boxes. We can also plant up your hanging baskets and containers.",
+    "id": "05-26-grow-at-the-skim"
+  },
+  {
+    "safetyTips": "Online consultations and social distancing deliveries and collections.",
+    "name": "Lotusium",
+    "phone": "07958492174",
+    "address": "Chalkfield Road, RH6 9FT ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590516108/use-lotusium_ict5ui.jpg",
+    "tags": [
+      "Gifts",
+      "Organic"
+    ],
+    "website": "https://www.facebook.com/Lotusium/",
+    "deliveryHours": [
+      "Monday 10:00 - 15:00",
+      "Tuesday 10:00 - 15:00",
+      "Wednesday 10:00 - 15:00",
+      "Thursday 10:00 - 15:00",
+      "Friday 10:00 - 15:00",
+      "Saturday 10:00 - 15:00",
+      "Sunday 10:00 - 15:00"
+    ],
+    "email": "info@lotusium.co.uk",
+    "description": "Holistic therapist and Neal’s Yard Remedies Organic independent consultant. Currently delivering all your organic skincare and well being needs. I also do video consultations free of charge. ",
+    "id": "05-26-lotusium"
+  },
+  {
+    "safetyTips": "Contact free delivery with Uber Eats.",
+    "name": "Sea Salt Fish & Chips",
+    "phone": "01747244885",
+    "address": "41 Lesbourne Road, RH2 7JS",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590514711/use-fish-chips_t5ta76.jpg",
+    "tags": [
+      "Fish & Chips",
+      "Chips"
+    ],
+    "website": "http://www.seasaltreigate.com",
+    "deliveryHours": [
+      "Tuesday 16:30 - 21:00",
+      "Wednesday 16:30 - 21:00",
+      "Thursday 16:30 - 21:00",
+      "Friday 16:30 - 21:00",
+      "Saturday 16:30 - 21:00"
+    ],
+    "email": "seasaltreigate41@hotmail.com",
+    "description": "The Seasalt Group use only the finest ingredients, our fish is sourced from non-threatened fish stocks and we focus on providing you with a quality product.",
+    "id": "05-26-sea-salt-fish-chips"
+  },
+  {
+    "safetyTips": "All our drivers will wear masks and gloves when delivering and will place food on the floor, ring the bell and step back. When collecting we will bring food out to you to your car. ",
+    "name": "Surrey Smokehouse BBQ",
+    "phone": "07843118014",
+    "address": "Old Reigatians Rugby Club, Park Lane RH2 8JX",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590515820/use-smokehouse_w5uxbn.jpg",
+    "tags": [
+      "Food",
+      "Chicken",
+      "Chips",
+      "Cheese",
+      "Meat"
+    ],
+    "website": "https://www.facebook.com/surreysmokehousebbq/",
+    "deliveryHours": [
+      "Friday 17:30 - 22:00",
+      "Saturday 17:30 - 22:00"
+    ],
+    "email": "info@balsamicfig.co.uk",
+    "description": "Our Smokehouse BBQ menu consists of mouthwatering food. Extra meaty ribs, melt in the mouth beef brisket, bursting with flavour pork belly, ultra tasty chicken wings, cheesy mac 'n' cheese and lots more.",
+    "id": "05-26-surrey-smokehouse-bbq"
+  },
+  {
+    "safetyTips": "Social distancing doorstep delivery, cashless payments.",
+    "name": "The Village Cakery Surrey",
+    "phone": "07870686045",
+    "address": "The Glebe, Leigh, Reigate RH2 8NL",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590514135/use-village-bakery_wrlsia.jpg",
+    "tags": [
+      "Cakes",
+      "Brownies",
+      "Dairy-free",
+      "Gluten-free",
+      "Baked Goods"
+    ],
+    "website": "https://the-village-cakery.business.site",
+    "deliveryHours": [
+      "Monday 10:00 - 18:00",
+      "Tuesday 10:00 - 18:00",
+      "Wednesday 10:00 - 18:00",
+      "Thursday 10:00 - 18:00",
+      "Friday 10:00 - 18:00",
+      "Saturday 10:00 - 18:00"
+    ],
+    "email": "thevillagecakery@hotmail.com",
+    "description": "Good quality cakes and bakes.",
+    "id": "05-26-the-village-cakery-surrey"
+  },
+  {
+    "safetyTips": "I offer contactless delivery and Level 2 Food and Hygiene Safety certified.",
+    "name": "Bee's Bakes",
+    "phone": "07712504077",
+    "address": "Horley",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590760182/use-bees-bakes_bvuarh.jpg",
+    "tags": [
+      "Baked goods"
+    ],
+    "website": "https://www.facebook.com/beeesbakes/",
+    "deliveryHours": [
+      "Monday 08:30 - 20:30",
+      "Tuesday 08:30 - 20:30",
+      "Wednesday 08:30 - 20:30",
+      "Thursday 08:30 - 20:30",
+      "Friday 08:30 - 20:30",
+      "Saturday 08:30 - 20:30",
+      "Sunday 08:30 - 20:30"
+    ],
+    "email": "bees-bakes@outlook.com",
+    "description": "The bee’s knees of baking - I offer a wide range of products from celebration cakes to brownies to afternoon tea boxes. My business started as a hobby and has blossomed into something so beautiful and enjoyable. Message me with any enquires.",
+    "id": "05-29-bees-bakes"
+  },
+  {
+    "safetyTips": "Items will be delivered by our driver who uses hand sanitizer before and after every delivery. He will knock on the door and leave your purchase by the door and will step away and wait for you to collect it. All payments can be made over the phone.",
+    "name": "Betchley’s Butchers",
+    "phone": "01737762292",
+    "address": "Timperley Gardens, Redhill RH1 2AU",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590755947/use-betchley_wtcryy.jpg",
+    "tags": [
+      "Butchers",
+      "Meat",
+      "Cheese",
+      "Eggs"
+    ],
+    "website": "https://www.facebook.com/betchleysbutchers/",
+    "deliveryHours": [
+      "Monday 09:00 - 14:00",
+      "Tuesday 09:00 - 14:00",
+      "Wednesday 09:00 - 14:00",
+      "Thursday 09:00 - 14:00",
+      "Friday 09:00 - 14:00",
+      "Saturday 09:00 - 14:00"
+    ],
+    "email": "nicbetchley@gmail.com",
+    "description": "All meat items.",
+    "id": "05-29-betchley’s-butchers"
+  },
+  {
+    "safetyTips": "Doorstep drop-offs available.",
+    "name": "Greensleeves",
+    "phone": "01737241005",
+    "address": "Lesbourne Road, RH2 7JS",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590758387/use-greensleeves_bmrcjd.jpg",
+    "tags": [
+      "Flowers"
+    ],
+    "website": "https://www.greensleevesonline.co.uk/",
+    "deliveryHours": [
+      "Monday 09:00 - 16:00",
+      "Tuesday 09:00 - 16:00",
+      "Wednesday 09:00 - 16:00",
+      "Thursday 09:00 - 16:00",
+      "Friday 09:00 - 16:00",
+      "Saturday 09:00 - 16:00"
+    ],
+    "email": "flowrs@greensleevesonline.co.uk",
+    "description": "Florist for gift bouquets and  funeral arrangements.",
+    "id": "05-29-greensleeves"
+  },
+  {
+    "safetyTips": "Contactless payment, via website (PayPal or bank transfer) and door-step delivery. Wearing mask and gloves at all times.",
+    "name": "Macarons Versailles",
+    "phone": "07889478310",
+    "address": "7 Wysemead, Horley RH6 9XX",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590759294/use-macarons-vers_xzmop0.jpg",
+    "tags": [
+      "Food",
+      "Pastries",
+      "Baked Goods",
+      "Macarons",
+      "Gluten-free"
+    ],
+    "website": "https://www.macaronsversailles.com",
+    "deliveryHours": [
+      "Tuesday 10:00 - 18:00",
+      "Friday 10:00 - 18:00"
+    ],
+    "email": "jelena@macaronsversailles.com",
+    "description": "French macarons. Delivering my macaron boxes locally, for a £2 charge",
+    "id": "05-29-macarons-versailles"
+  },
+  {
+    "safetyTips": "Social Distancing.",
+    "name": "Monte Forte",
+    "phone": "07584833810",
+    "pdf": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590756742/use-monteforte_dhki4u.jpg",
+    "address": "12 West Street, Reigate RH2 9BS",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590758043/use-monteforte-v2_k21pak.jpg",
+    "tags": [
+      "Food",
+      "Pizza",
+      "Restaurant",
+      "Dairy-free",
+      "Gluten-free",
+      "Vegan"
+    ],
+    "website": "https://www.monteforte.co.uk",
+    "deliveryHours": [
+      "Tuesday 17:00 - 21:00",
+      "Wednesday 17:00 - 21:00",
+      "Thursday 17:00 - 21:00",
+      "Friday 17:00 - 21:00",
+      "Saturday 17:00 - 21:00"
+    ],
+    "email": "info@monteforte.co.uk",
+    "description": "Established in 2017 as a street food truck and having set up a pizzeria in Reigate, we are best know for our Neapolitan Pizza, chewy and slightly charred, like those made in Napoli. We offer a safe collection service and a 4 mile delivery radius for deliveries.",
+    "id": "05-29-monte-forte"
+  },
+  {
+    "safetyTips": "Social distancing in place.",
+    "name": "Seblin Ltd",
+    "phone": "07912935452",
+    "address": "Horley",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590758845/use-seblin_f5x1nu.jpg",
+    "tags": [
+      "Home & Garden",
+      "Garden",
+      "Homewares"
+    ],
+    "website": "https://www.facebook.com/seblinchannel",
+    "deliveryHours": [
+      "Monday 09:00 - 18:00",
+      "Tuesday 09:00 - 18:00",
+      "Wednesday 09:00 - 18:00",
+      "Thursday 09:00 - 18:00",
+      "Friday 09:00 - 18:00",
+      "Saturday 09:00 - 18:00"
+    ],
+    "email": "seblinltd@outlook.com",
+    "description": "We are local high quality solar lights providers, free delivery to local residents. Also post to nationwide (postage applied). ",
+    "id": "05-29-seblin-ltd"
+  },
+  {
+    "safetyTips": "Time slots and contact free delivery.",
+    "name": "Stuck In, Tuck In",
+    "phone": "07877055142",
+    "address": "Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1590761727/stuck-in-tuck-in_g93cax.jpg",
+    "tags": [
+      "Food"
+    ],
+    "website": "https://stuckintuckin.co.uk",
+    "deliveryHours": [
+      "Tuesday 12:30 - 16:00",
+      "Wednesday 12:30 - 16:00",
+      "Thursday 12:30 - 16:00",
+      "Friday 12:30 - 16:00",
+      "Saturday 12:30 - 16:00"
+    ],
+    "email": "lee@stuckintuckin.co.uk",
+    "description": "Comfort food, salads and fresh food.",
+    "id": "05-29-stuck-in-tuck-in"
+  },
+  {
+    "safetyTips": "I will be handling products with current safety and hygiene measures. All products will be packed with gloves.",
+    "name": "Surrey Holistics",
+    "phone": "07711242680",
+    "address": "39 Tanners Meadow, Brockham RH3 7NJ ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1591019608/use-surrey-weleda_dugmwd.jpg",
+    "tags": [
+      "Organic",
+      "Gifts"
+    ],
+    "website": "https://www.weleda-advisor.co.uk/shop/SharnaHunt",
+    "deliveryHours": [
+      "Monday Flexible",
+      "Tuesday Flexible",
+      "Wednesday Flexible",
+      "Thursday Flexible",
+      "Friday Flexible",
+      "Saturday Flexible"
+    ],
+    "email": "sharna.hunt@weleda-advisor.co.uk",
+    "description": "I am a Weleda Wellbeing Advisor, and also an Indian Head Massage therapist. I am delivering lovely, natural, organic and toxin free Weleda skincare and wellbeing products.",
+    "id": "06-01-surrey-holistics"
+  },
+  {
+    "safetyTips": "Regular hand washing and hygiene measures taken when packing items. Contactless delivery. Please wash items on arrival prior to wearing.",
+    "name": "Little Squiggle Bears Clothing",
+    "phone": "",
+    "address": "Redhill",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1591952831/use-littlesquiggle-underwater_wl6ixo.jpg",
+    "tags": [
+      "Clothing"
+    ],
+    "website": "https://etsy.com/shop/littlesquigglebears",
+    "deliveryHours": [
+      "Monday Flexible",
+      "Tuesday Flexible",
+      "Wednesday Flexible"
+    ],
+    "email": "littlesquigglebears@yahoo.com",
+    "description": "Handmade fun and practical baby and childrens clothing up to age 12. Free delivery in Redhill and Reigate area use code 'COLLECT2020' on Etsy. ",
+    "id": "06-12-little-squiggle-bears-clothing"
+  },
+  {
+    "name": "Sweetly Delicious",
+    "description": "Delivering cones, bags, boxes and kebabs! I provide sweetie filled cones, boxes and bags for all occasions, themes and budgets. Ideal gifts for someone with a sweet tooth!",
+    "tags": [
+      "Gifts"
+    ],
+    "address": "RH2 8LH",
+    "email": "helen@sweetlydelicious.co.uk",
+    "safetyTips": "All goods stored in airtight containers, mask and gloves worn during production, all areas sanitised. Contactless courier deliveries - free local (Reigate) delivery. All surfaces are sanitised prior to production. I wear mask and gloves whilst handling sweets. Contactless collection and courier deliveries.",
+    "deliveryHours": [
+      "Monday Flexible",
+      "Tuesday Flexible",
+      "Wednesday Flexible",
+      "Thursday Flexible",
+      "Friday Flexible",
+      "Saturday Flexible",
+      "Sunday Flexible"
+    ],
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1591952511/use-sweetlydelicious_sbmhkr.jpg",
+    "id": "06-12-sweetly-delicious"
+  },
+  {
+    "safetyTips": "We organise pre-arranged pickup times to ensure there are no queues when you arrive. I will place your order on a table outside and step away for you to pick it up. We will provide bank account details for payment so no cash is handled. ",
+    "name": "Tony Tobin To Go",
+    "phone": "07709689884",
+    "address": "Reigate Heath Golf Club, Flanchford Rd, Reigate RH2 8QR",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1593161449/use-tony-tobin_w6xh8p.jpg",
+    "tags": [
+      "Food",
+      "Restaurant",
+      "Meat",
+      "Pizza",
+      "Fish & Chips",
+      "Cheese",
+      "Burgers",
+      "Bread",
+      "Cakes",
+      "Baked Goods",
+      "Organic",
+      "Vegan",
+      "Salad",
+      "BBQ"
+    ],
+    "website": "https://www.tonytobin.com",
+    "deliveryHours": [
+      "Thursday 18:30 - 20:30",
+      "Friday 18:30 - 20:30",
+      "Saturday 18:30 - 20:30",
+      "Sunday 18:30 - 20:30"
+    ],
+    "email": "info@totoevents.co.uk",
+    "description": "A range of delicious restaurant quality takeaways for collection. If you fancy a special meal with your partner or maybe a BBQ in the sun, you can see all our menus on our website. For bespoke orders or allergies, please give me a ring and we can discuss.",
+    "id": "06-26-tony-tobin-to-go"
   }
 ]
