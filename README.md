@@ -1,6 +1,6 @@
 # Welcome to Reigate Delivers
 
-Reigate Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.
+UK Delivers is a simple directory of independent businesses offering local delivery. Enabling people to stay at home and save lives, while keeping our high streets alive.
 
 This project was originally bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -132,14 +132,20 @@ With a Netlify account created, let's get Netlify connected to your repository.
 
 - Select your `Owner` and `Branch to deploy` and define your `Basic build settings`. For me these are:
  
-	* Build command: `yarn build`
+	* Build command: `CI= && yarn build`
 	* Publish directory: `build/`
+
+- To deploy via npm, you'll need the following build command:
+
+	* `CI= npm run build`
 
 - Click `Deploy site`
 
 An initial deployment will start. Takes a minute or so to complete. Once deployed, a Netlify subdomain will be generated. Visit the subdomain to verify all ok with the deployment.
 
 You can revisit your deployments at any time from `Deploys` in the Netlify admin.
+
+***NB. Since June 2020, there has been an issue with Netlify deployments. We have updated [our instructions](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752) accordingly, but worth noting.***
 
 ### Custom domains
 
