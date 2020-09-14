@@ -70,5 +70,3 @@ const StyledModal = styled.section`
     margin-right:auto;
   }
 `;
-
-

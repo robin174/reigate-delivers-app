@@ -24,7 +24,7 @@ export const CookieNotice = () => {
     <StyledCookieBarWrap visible={!hasCookie}>
       <StyledCard base="var(--base)" align="center">
         <StyledCookieBarInner>
-          <span>🍪</span>
+          <span role="img" aria-label="Cookie">🍪</span>
           <p>This website uses cookies to give you a better experience.</p>
         </StyledCookieBarInner>
       <ButtonPrimary onClick={setCookieAccept}>Accept</ButtonPrimary>
@@ -86,10 +86,10 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
-        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}>🔗 Order online</StyledCardLinkItem></li>}
-        {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}>✉️ Email us</StyledCardLinkItem></li>}
-        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}>{`🤙 Call ${formatPhone(phone)}`}</StyledCardLinkItem></li>}
-        {file && <li><StyledCardLinkItem href={`/uploads/${file}`}>📃 Download PDF</StyledCardLinkItem></li>}
+        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}><span role="img" aria-label="URL">🔗</span> Order online</StyledCardLinkItem></li>}
+        {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}><span role="img" aria-label="Email">✉️</span> Email us</StyledCardLinkItem></li>}
+        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}><span role="img" aria-label="Call">🤙</span> Call {formatPhone(phone)}</StyledCardLinkItem></li>}
+        {file && <li><StyledCardLinkItem href={`/uploads/${file}`}><span role="img" aria-label="PDF">📃</span> Download PDF</StyledCardLinkItem></li>}
       </StyledCardLinks>
     </StyledCard>
   )

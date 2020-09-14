@@ -22,7 +22,6 @@ export const LocationSearch = () => {
       <InputFilter debounceTime={200} placeholder="What are you looking for" />
     </StyledInputWrap>
   )
-
 }
 
 export const LocationList = () => {
@@ -71,7 +70,6 @@ const StyledInputWrap = styled.div`
   max-width:420px;  
   margin:var(--spacing-sm) 0;
   color:#d8d8d8;
-
   svg {
     position:absolute;
     top:1rem;
@@ -90,4 +88,4 @@ const StyledInputWrap = styled.div`
     font-family:var(--font-stack);
     color:var(--text-med);
   }
-`
+`;
