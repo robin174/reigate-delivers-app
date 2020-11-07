@@ -1,0 +1,26 @@
+{
+  "safetyTips": "Contact free delivery and payments. PPE on each delivery.",
+  "name": "M R Catering",
+  "phone": "07367289200",
+  "address": "South Nutfield",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604750849/use-mrcatering_byltav.jpg",
+  "tags": [
+    "Food",
+    "Thai",
+    "Frozen Meals",
+    "Indian",
+    "Chinese"
+  ],
+  "website": "https://www.mrcatering.co.uk",
+  "deliveryHours": [
+    "Monday 09:00 - 17:00",
+    "Tuesday 09:00 - 17:00",
+    "Wednesday 09:00 - 17:00",
+    "Thursday 09:00 - 17:00",
+    "Friday 09:00 - 17:00",
+    "Saturday 09:00 - 17:00",
+    "Sunday 09:00 - 17:00"
+  ],
+  "email": "info@mrcatering.co.uk",
+  "description": "We were an events catering company prior to Covid we have adapted our business and now chef Tony creates delicious ready meals from Thai curries to cottage pies and desserts! We deliver all meals frozen, oven ready for your convenience. There is no delivery charge and we deliver from Dorking to Crawley and anywhere in between! "
+}
