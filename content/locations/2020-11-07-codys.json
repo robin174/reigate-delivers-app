@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Masks and gloves warn at all times. Only accepting transfers or contactless payments",
+  "name": "Cody's",
+  "phone": "07923660435",
+  "address": "Reigate",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604750397/use-codys_vn1qej.jpg",
+  "tags": [
+    "Waffles",
+    "Grazing Boxes"
+  ],
+  "website": "https://www.codyswaffles.co.uk",
+  "deliveryHours": [
+    "Monday 07:00 - 23:00",
+    "Tuesday 07:00 - 23:00",
+    "Wednesday 07:00 - 23:00",
+    "Thursday 07:00 - 23:00",
+    "Friday 07:00 - 23:00",
+    "Saturday 07:00 - 23:00",
+    "Sunday 07:00 - 23:00"
+  ],
+  "email": "codyswaffles@gmail.com",
+  "description": "Waffle grazing boxes to be delivered to your home. Perfect for a lockdown birthday or anniversary or just a sweet treat!"
+}
