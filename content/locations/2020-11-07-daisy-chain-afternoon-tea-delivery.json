@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Social distance with minimal contact",
+  "name": "Daisy Chain Afternoon Tea Delivery ",
+  "phone": "07957637556",
+  "address": "Hilltop Lane, Chaldon",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604749824/use-daisychaincake_q57wm2.jpg",
+  "tags": [
+    "Baked Goods",
+    "Afternoon Tea",
+    "Cakes"
+  ],
+  "website": "https://www.facebook.com/daisychaincake",
+  "deliveryHours": [
+    "Monday 10:00 - 16:00",
+    "Tuesday 10:00 - 16:00",
+    "Wednesday 10:00 - 16:00",
+    "Thursday 10:00 - 16:00",
+    "Friday 10:00 - 16:00",
+    "Saturday 10:00 - 16:00",
+    "Sunday 10:00 - 16:00"
+  ],
+  "email": "enquiries@daisychaincake.co.uk",
+  "description": "We deliver afternoon teas, savoury bites and sweet delight boxes... treat yourself or someone special."
+}
