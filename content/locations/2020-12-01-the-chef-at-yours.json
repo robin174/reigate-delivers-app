@@ -1,0 +1,22 @@
+{
+  "safetyTips": "I will be cooking and chilling meals, using cook/chill records. Delivering in cool boxes, with instruction cards on reheating.",
+  "name": "The Chef At Yours",
+  "phone": "07834474733",
+  "address": "23 Broadhurst Gardens, Reigate RH2 8AW",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1606857072/use-the-chef-at-ours_qxem4b.jpg",
+  "tags": [
+    "Food",
+    "Salad",
+    "Soup",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "website": "https://thechefatyours.co.uk",
+  "deliveryHours": [
+    "Tuesday 10:00 - 13:00",
+    "Wednesday 10:00 - 13:00",
+    "Thursday 10:00 - 13:00"
+  ],
+  "email": "info@thechefatyours.co.uk",
+  "description": "Professional chef, known for cooking 3 course meals in homes for special occasions and dinner parties. Currently doing salads, soups, stews and traybakes."
+}
