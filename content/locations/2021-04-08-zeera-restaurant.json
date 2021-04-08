@@ -1,0 +1,26 @@
+{
+  "safetyTips": "We are keeping 2m from our customers and leaving the food on the doorstep, if it has been pre-paid.",
+  "name": "Zeera Restaurant",
+  "phone": "01737217445",
+  "address": "10 West Street, Reigate RH2 9BS ",
+  "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1617896927/use-zeera-restaurant_hki887.jpg",
+  "tags": [
+    "Indian",
+    "Bangladeshi",
+    "Meat",
+    "Chicken",
+    "Food",
+    "Restaurant"
+  ],
+  "website": "https://www.zeerarestaurant.com",
+  "deliveryHours": [
+    "Tuesday 17:30 - 22:30",
+    "Wednesday 17:30 - 22:30",
+    "Thursday 17:30 - 22:30",
+    "Friday 17:30 - 22:30",
+    "Saturday 17:30 - 22:30",
+    "Sunday 17:30 - 22:30"
+  ],
+  "email": "zeerarestauran786@gmail.com",
+  "description": "Delivering the finest Bangladeshi and Indian cuisine."
+}
