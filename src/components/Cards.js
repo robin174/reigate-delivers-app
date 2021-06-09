@@ -47,7 +47,7 @@ const LocationCardAccordion = ({ title, children }) => {
   return (
     <StyledAccordionWrap>
       <StyledAccordionTitle onClick={() => setIsAccordionOpen(!isAccordionOpen)}>
-        <i className="fal fa-lg fa-clock"/><p>{title}</p>
+        <i className="fal fa-fw fa-lg fa-clock"/><p>{title}</p>
       </StyledAccordionTitle>
       <StyledAccordionBody isOpen={isAccordionOpen}>
         {children}
@@ -76,13 +76,13 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {children}
       </StyledCardBody>
       <LocationCardPropList>
-        {address && <li><i className="fal fa-lg fa-map-marker-alt"/><p>{address}</p></li>}
+        {address && <li><i className="fal fa-fw fa-lg fa-map-marker-alt"/><p>{address}</p></li>}
         {deliveryHours && deliveryHours.length > 0 && <li>
           <LocationCardAccordion title={getDeliveryRange(deliveryHours)}>
             {deliveryHours.map(time => <small key={time}>{time}</small>)}
           </LocationCardAccordion>
         </li>}
-        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><i className="fal fa-lg fa-exclamation-circle"/><p>Safety tips</p></li>}
+        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><i className="fal fa-fw fa-lg fa-exclamation-circle"/><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
         {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`} target="_blank"><i className="fas fa-external-link"/>Order online</StyledCardLinkItem></li>}
@@ -184,11 +184,11 @@ const StyledCardList = styled.ul`
         p {
             text-decoration:underline;
         }
-    }
+        }
     }
     p {
       flex:1;
-      padding-left:var(--spacing-xs);
+      padding-left:6px;
     }
     &:hover {
         & li {
