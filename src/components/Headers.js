@@ -7,15 +7,15 @@ import { Button } from './Buttons';
 export const Nav = () => {
   return (
     <StyledNav role="navigation">
-      <Button path="https://airtable.com/shrsXcIxuoAWsPlJf">
-      <span role="img" aria-label="List">📍</span> List your business
-      </Button>
-       <Button path="mailto:robin@reigatedelivers.com">
-       <span role="img" aria-label="Email">📧</span> Email us
-       </Button>
-       <Button path="https://www.facebook.com/reigatedelivers">
-       <span role="img" aria-label="Facebook">🙌</span> Follow on Facebook
-       </Button>
+        <Button path="https://airtable.com/shrsXcIxuoAWsPlJf">
+            <i className="fas fa-map-pin"/>List your business
+        </Button>
+        <Button path="mailto:robin@reigatedelivers.com">
+            <i className="fas fa-envelope-open-text"/>Email us
+        </Button>
+        <Button path="https://www.facebook.com/reigatedelivers">
+            <i className="fas fa-hand-sparkles"/>Follow on Facebook
+        </Button>
     </StyledNav>
   )
 }
@@ -67,16 +67,18 @@ const StyledNav = styled.nav`
   flex-flow:row nowrap;
   width:100%;
   padding:var(--spacing-sm);
-
   a {
     width:100%;
     margin:0 0 var(--spacing-xs) 0;
   }
-
+  i {
+      color: #FFB600;
+      font-size: 1.2rem;
+      margin-right: 10px;
+  }
   @media(min-width:48rem) {
     display:flex;
     justify-content:flex-end;
-
     a {
       width:auto;
       margin:0 0 0 var(--spacing-xs);

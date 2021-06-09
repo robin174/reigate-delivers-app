@@ -464,7 +464,7 @@
     ],
     "email": "nettlesjoseph@yahoo.co.uk",
     "description": "We are known as a pub, we are now a deli/shop and takeaway delivery service. We deliver personal food boxes and we provide meals including Thai, Chinese, wood-fired pizzas and British cuisine. We sell fresh fruit and veg, and other food essentials. We stock gluten-free, vegan and dairy alternatives.",
-    "id": "2020-04-22-dukes-yard-café-deli-pizzeria"
+    "id": "2020-04-22-dukes-yard-café-deli-pizzeria"
   },
   {
     "safetyTips": "Safe social distancing at 2m.",
@@ -1582,5 +1582,130 @@
     "email": "lucycharlesworth@icloud.com",
     "description": "During lockdown, I started to donate home-cooked vegetable soup to people who were not able to get the help or the nutrition that they needed. People loved the recipes, and so Lucy's Ladle was born! I sell nourishing vegetable soups and stews, cooked fresh to order and delivered to your door.",
     "id": "2020-08-07-lucys-ladles"
+  },
+  {
+    "safetyTips": "Masks and gloves warn at all times. Only accepting transfers or contactless payments",
+    "name": "Cody's",
+    "phone": "07923660435",
+    "address": "Reigate",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604750397/use-codys_vn1qej.jpg",
+    "tags": [
+      "Waffles",
+      "Grazing Boxes"
+    ],
+    "website": "https://www.codyswaffles.co.uk",
+    "deliveryHours": [
+      "Monday 07:00 - 23:00",
+      "Tuesday 07:00 - 23:00",
+      "Wednesday 07:00 - 23:00",
+      "Thursday 07:00 - 23:00",
+      "Friday 07:00 - 23:00",
+      "Saturday 07:00 - 23:00",
+      "Sunday 07:00 - 23:00"
+    ],
+    "email": "codyswaffles@gmail.com",
+    "description": "Waffle grazing boxes to be delivered to your home. Perfect for a lockdown birthday or anniversary or just a sweet treat!",
+    "id": "2020-11-07-codys"
+  },
+  {
+    "safetyTips": "Social distance with minimal contact",
+    "name": "Daisy Chain Afternoon Tea Delivery ",
+    "phone": "07957637556",
+    "address": "Hilltop Lane, Chaldon",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604749824/use-daisychaincake_q57wm2.jpg",
+    "tags": [
+      "Baked Goods",
+      "Afternoon Tea",
+      "Cakes"
+    ],
+    "website": "https://www.facebook.com/daisychaincake",
+    "deliveryHours": [
+      "Monday 10:00 - 16:00",
+      "Tuesday 10:00 - 16:00",
+      "Thursday 10:00 - 16:00",
+      "Friday 10:00 - 16:00",
+      "Saturday 10:00 - 16:00",
+      "Sunday 10:00 - 16:00"
+    ],
+    "email": "enquiries@daisychaincake.co.uk",
+    "description": "We deliver afternoon teas, savoury bites and sweet delight boxes... treat yourself or someone special.",
+    "id": "2020-11-07-daisy-chain-afternoon-tea-delivery"
+  },
+  {
+    "safetyTips": "Contact free delivery and payments. PPE on each delivery.",
+    "name": "M R Catering",
+    "phone": "07367289200",
+    "address": "South Nutfield",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1604750849/use-mrcatering_byltav.jpg",
+    "tags": [
+      "Food",
+      "Thai",
+      "Frozen Meals",
+      "Indian",
+      "Chinese"
+    ],
+    "website": "https://www.mrcatering.co.uk",
+    "deliveryHours": [
+      "Monday 09:00 - 17:00",
+      "Tuesday 09:00 - 17:00",
+      "Wednesday 09:00 - 17:00",
+      "Thursday 09:00 - 17:00",
+      "Friday 09:00 - 17:00",
+      "Saturday 09:00 - 17:00",
+      "Sunday 09:00 - 17:00"
+    ],
+    "email": "info@mrcatering.co.uk",
+    "description": "We were an events catering company prior to Covid we have adapted our business and now chef Tony creates delicious ready meals from Thai curries to cottage pies and desserts! We deliver all meals frozen, oven ready for your convenience. There is no delivery charge and we deliver from Dorking to Crawley and anywhere in between! ",
+    "id": "2020-11-07-m-r-catering"
+  },
+  {
+    "safetyTips": "I will be cooking and chilling meals, using cook/chill records. Delivering in cool boxes, with instruction cards on reheating.",
+    "name": "The Chef At Yours",
+    "phone": "07834474733",
+    "address": "23 Broadhurst Gardens, Reigate RH2 8AW",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1606857072/use-the-chef-at-ours_qxem4b.jpg",
+    "tags": [
+      "Food",
+      "Salad",
+      "Soup",
+      "Vegan",
+      "Vegetarian"
+    ],
+    "website": "https://thechefatyours.co.uk",
+    "deliveryHours": [
+      "Tuesday 10:00 - 13:00",
+      "Wednesday 10:00 - 13:00",
+      "Thursday 10:00 - 13:00"
+    ],
+    "email": "info@thechefatyours.co.uk",
+    "description": "Professional chef, known for cooking 3 course meals in homes for special occasions and dinner parties. Currently doing salads, soups, stews and traybakes.",
+    "id": "2020-12-01-the-chef-at-yours"
+  },
+  {
+    "safetyTips": "We are keeping 2m from our customers and leaving the food on the doorstep, if it has been pre-paid.",
+    "name": "Zeera Restaurant",
+    "phone": "01737217445",
+    "address": "10 West Street, Reigate RH2 9BS ",
+    "cover": "https://res.cloudinary.com/reigate-delivers/image/upload/c_limit,f_auto,q_80,w_500/v1617896927/use-zeera-restaurant_hki887.jpg",
+    "tags": [
+      "Indian",
+      "Bangladeshi",
+      "Meat",
+      "Chicken",
+      "Food",
+      "Restaurant"
+    ],
+    "website": "https://www.zeerarestaurant.com",
+    "deliveryHours": [
+      "Tuesday 17:30 - 22:30",
+      "Wednesday 17:30 - 22:30",
+      "Thursday 17:30 - 22:30",
+      "Friday 17:30 - 22:30",
+      "Saturday 17:30 - 22:30",
+      "Sunday 17:30 - 22:30"
+    ],
+    "email": "zeerarestauran786@gmail.com",
+    "description": "Delivering the finest Bangladeshi and Indian cuisine.",
+    "id": "2021-04-08-zeera-restaurant"
   }
 ]

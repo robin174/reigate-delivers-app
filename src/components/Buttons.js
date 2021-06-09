@@ -20,6 +20,8 @@ export const ButtonText = ({ children, ...rest }) => {
 
 const StyledButton = styled.a`
   display:inline-block;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   padding:0.85rem var(--spacing-xs);
   font-size:0.85rem;
   text-decoration:none;
@@ -29,12 +31,12 @@ const StyledButton = styled.a`
   border:none;
   text-align:center;  
   cursor:pointer;
-  transition:all .2s ease;
+  transition:all .3s ease;
 
   &:hover {
-    background-color:#fff;
-    color:var(--text-high);
-    transition:all .2s ease;
+    background-color:rgba(255,255,255,0.2);
+    color:#fff;
+    transition:all .3s ease;
   }
 `
 
@@ -53,7 +55,7 @@ const StyledButtonPrimary = styled.button`
   border:none;
   text-align:center;
   cursor:pointer;
-  transition:all .2s ease;
+  transition:all .3s ease;
 
   &.disabled {
     pointer-events:none;    
@@ -62,7 +64,7 @@ const StyledButtonPrimary = styled.button`
 
   &:hover {
     background-color:${darken(0.2, '#FF5630')};
-    transition:all .2s ease;
+    transition:all .3s ease;
   }
 `
 
@@ -79,11 +81,11 @@ const StyledButtonSecondary = styled.button`
   margin:var(--spacing-sm) auto;  
   text-align:center;
   cursor:pointer;
-  transition:all .2s ease;
+  transition:all .3s ease;
 
   &:hover {
     background-color:rgba(11,19,43,0.1);    
-    transition:all .2s ease;
+    transition:all .3s ease;
   }
 `
 

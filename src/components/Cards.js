@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import Cookies from 'universal-cookie';
-import { MapPin, Clock, AlertCircle } from 'react-feather';
 import { getDeliveryRange, isURL, isEmail, formatPhone } from './Helpers';
 import { useData } from '../context/DataProvider';
 import { ButtonPrimary } from './Buttons';
@@ -24,7 +23,7 @@ export const CookieNotice = () => {
     <StyledCookieBarWrap visible={!hasCookie}>
       <StyledCard base="var(--base)" align="center">
         <StyledCookieBarInner>
-          <span role="img" aria-label="Cookie">🍪</span>
+            <i style={{color: 'white'}} className="fas fa-2x fa-cookie-bite"/>
           <p>This website uses cookies to give you a better experience.</p>
         </StyledCookieBarInner>
       <ButtonPrimary onClick={setCookieAccept}>Accept</ButtonPrimary>
@@ -48,7 +47,7 @@ const LocationCardAccordion = ({ title, children }) => {
   return (
     <StyledAccordionWrap>
       <StyledAccordionTitle onClick={() => setIsAccordionOpen(!isAccordionOpen)}>
-        <Clock /><p>{title}</p>
+        <i className="fal fa-lg fa-clock"/><p>{title}</p>
       </StyledAccordionTitle>
       <StyledAccordionBody isOpen={isAccordionOpen}>
         {children}
@@ -77,18 +76,18 @@ export const LocationCard = ({ details, children, ...rest }) => {
         {children}
       </StyledCardBody>
       <LocationCardPropList>
-        {address && <li><MapPin /><p>{address}</p></li>}
+        {address && <li><i className="fal fa-lg fa-map-marker-alt"/><p>{address}</p></li>}
         {deliveryHours && deliveryHours.length > 0 && <li>
           <LocationCardAccordion title={getDeliveryRange(deliveryHours)}>
             {deliveryHours.map(time => <small key={time}>{time}</small>)}
           </LocationCardAccordion>
         </li>}
-        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><AlertCircle /><p>Safety tips</p></li>}
+        {safetyTips && <li onClick={() => postModalContent(safetyTips)}><i className="fal fa-lg fa-exclamation-circle"/><p>Safety tips</p></li>}
       </LocationCardPropList>
       <StyledCardLinks>
-        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`}><span role="img" aria-label="URL">🔗</span> Order online</StyledCardLinkItem></li>}
-        {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}><span role="img" aria-label="Email">✉️</span> Email us</StyledCardLinkItem></li>}
-        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}><span role="img" aria-label="Call">🤙</span> Call {formatPhone(phone)}</StyledCardLinkItem></li>}
+        {website && isURL(website) && <li><StyledCardLinkItem href={`${website}`} target="_blank"><i className="fas fa-external-link"/>Order online</StyledCardLinkItem></li>}
+        {email && isEmail(email) && <li><StyledCardLinkItem href={`mailto:${email}`}><i className="fas fa-envelope-open-text"/>Email us</StyledCardLinkItem></li>}
+        {phone && <li><StyledCardLinkItem href={`tel://${phone.replace(/\s/g, '')}`}><i className="fas fa-megaphone"/>Call {formatPhone(phone)}</StyledCardLinkItem></li>}
         {file && <li><StyledCardLinkItem href={`/uploads/${file}`}><span role="img" aria-label="PDF">📃</span> Download PDF</StyledCardLinkItem></li>}
       </StyledCardLinks>
     </StyledCard>
@@ -104,7 +103,9 @@ const StyledCard = styled.article`
   border-radius:0.5rem;
   box-shadow:0 1rem 2rem rgba(0,0,0,0.08);
   height:100%;
-
+  i:hover {
+    text-decoration: none;
+  }
   > * {
     width:100%;
     margin-bottom:var(--spacing-sm);
@@ -150,6 +151,9 @@ const StyledCardBody = styled.div`
 const StyledCardLinks = styled.ul`
   display:block;
   padding:0 var(--spacing-sm);
+  i {
+      margin-right: 7px;
+  }
 `
 const StyledCardLinkItem = styled.a`
   display:block;
@@ -166,26 +170,30 @@ const StyledCardLinkItem = styled.a`
 const StyledCardList = styled.ul`
   display:block;
   padding:0 var(--spacing-xs);
-
+  margin-left: 10px;
   li {
     display:flex;
     justify-content:flex-start;
     align-items:center;
     padding-bottom:var(--spacing-sm);
     color:var(--text-med);
-
-
     &:last-of-type {
       padding-bottom:0;
       cursor:pointer;
-
       &:hover {
-        text-decoration:underline;
-      }
+        p {
+            text-decoration:underline;
+        }
+    }
     }
     p {
       flex:1;
       padding-left:var(--spacing-xs);
+    }
+    &:hover {
+        & li {
+            text-decoration:none;
+        }
     }
   }
 `
@@ -199,10 +207,11 @@ const StyledAccordionTitle = styled.div`
   color:var(--text-med);
   cursor:pointer;
   text-decoration:none;
-
   &:hover {
-    text-decoration:underline;
-  }
+    p {
+        text-decoration:underline;
+    }
+}
 `
 const StyledAccordionBody = styled.div`
   will-change:max-height, overflow;
